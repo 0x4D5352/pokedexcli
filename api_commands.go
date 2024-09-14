@@ -1,9 +1,14 @@
 package main
 
-func commandMap() error {
+import (
+	"net/http"
+	"net/url"
+)
+
+func commandMap(config *Config) error {
 	return nil
 }
 
-func commandMapBack() error {
+func commandMapBack(config *Config) error {
 	return nil
 }
