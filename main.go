@@ -13,6 +13,10 @@ func main() {
 		fmt.Print("pokedex > ")
 		inputScanner.Scan()
 		input := inputScanner.Text()
-		fmt.Printf("User Input: %s\n", input)
+		fmt.Println()
+		err := executeCommand(input)
+		if err != nil {
+			fmt.Println(err)
+		}
 	}
 }
