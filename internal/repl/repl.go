@@ -12,7 +12,7 @@ import (
 func StartRepl() {
 	running := true
 	inputScanner := bufio.NewScanner(os.Stdin)
-	config := config.Config{
+	cfg := config.Config{
 		Next:     "",
 		Previous: "",
 	}
@@ -21,8 +21,7 @@ func StartRepl() {
 		inputScanner.Scan()
 		input := cleanInput(inputScanner.Text())
 		commandName := input[0]
-		fmt.Println()
-		err := cli.ExecuteCommand(commandName, config)
+		err := cli.ExecuteCommand(commandName, &cfg)
 		if err != nil {
 			fmt.Println(err)
 		}

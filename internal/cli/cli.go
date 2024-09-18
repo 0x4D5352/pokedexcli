@@ -70,11 +70,10 @@ func commandExit(cfg *config.Config) error {
 }
 
 func commandMap(cfg *config.Config) error {
-	location, err := pokeapi.GetLocation(cfg, "Next")
+	err := pokeapi.GetLocation(cfg, false)
 	if err != nil {
 		return err
 	}
-	fmt.Println(location)
 	return nil
 }
 
@@ -82,10 +81,9 @@ func commandMapBack(cfg *config.Config) error {
 	if cfg.Previous == "" {
 		return errors.New("already at beginning of list!")
 	}
-	location, err := pokeapi.GetLocation(cfg, "Previous")
+	err := pokeapi.GetLocation(cfg, true)
 	if err != nil {
 		return err
 	}
-	fmt.Println(location)
 	return nil
 }
