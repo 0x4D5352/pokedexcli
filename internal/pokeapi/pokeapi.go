@@ -1,14 +1,15 @@
-package main
+package pokeapi
 
 import (
+	"github.com/0x4D5352/pokedexcli/internal/config"
 	"net/http"
-	"net/url"
 )
 
-func commandMap(config *Config) error {
-	return nil
-}
+var baseURL = "https://pokeapi.co/api/v2/"
 
-func commandMapBack(config *Config) error {
-	return nil
+func GetLocation(cfg *config.Config, direction string) (location string, err error) {
+	if direction == "" {
+		results, err := http.Get(baseURL + "location")
+	}
+	return "", nil
 }

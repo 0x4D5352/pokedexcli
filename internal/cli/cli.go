@@ -1,14 +1,18 @@
-package main
+package cli
 
 import (
+	"errors"
 	"fmt"
 	"os"
+
+	"github.com/0x4D5352/pokedexcli/internal/config"
+	"github.com/0x4D5352/pokedexcli/internal/pokeapi"
 )
 
 type cliCommand struct {
 	name        string
 	description string
-	callback    func() error
+	callback    func(*config.Config) error
 }
 
 func getCommands() map[string]cliCommand {
@@ -36,20 +40,20 @@ func getCommands() map[string]cliCommand {
 	}
 }
 
-func executeCommand(name string) error {
+func ExecuteCommand(name string, cfg *config.Config) error {
 	commands := getCommands()
 	command, ok := commands[name]
 	if !ok {
 		return fmt.Errorf("error - '%s' not a valid command!", name)
 	}
-	err := command.callback()
+	err := command.callback(cfg)
 	if err != nil {
 		return fmt.Errorf("error - command failed with error message: %w", err)
 	}
 	return nil
 }
 
-func commandHelp() error {
+func commandHelp(cfg *config.Config) error {
 	fmt.Println("Welcome to the Pokedex!")
 	fmt.Println("Usage:")
 	fmt.Println()
@@ -60,7 +64,28 @@ func commandHelp() error {
 	return nil
 }
 
-func commandExit() error {
+func commandExit(cfg *config.Config) error {
 	os.Exit(0)
+	return nil
+}
+
+func commandMap(cfg *config.Config) error {
+	location, err := pokeapi.GetLocation(cfg, "Next")
+	if err != nil {
+		return err
+	}
+	fmt.Println(location)
+	return nil
+}
+
+func commandMapBack(cfg *config.Config) error {
+	if cfg.Previous == "" {
+		return errors.New("already at beginning of list!")
+	}
+	location, err := pokeapi.GetLocation(cfg, "Previous")
+	if err != nil {
+		return err
+	}
+	fmt.Println(location)
 	return nil
 }
