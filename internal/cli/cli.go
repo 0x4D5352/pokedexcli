@@ -65,6 +65,7 @@ func commandHelp(cfg *config.Config) error {
 }
 
 func commandExit(cfg *config.Config) error {
+	cfg.Cache.StopReapLoop()
 	os.Exit(0)
 	return nil
 }
