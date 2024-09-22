@@ -3,10 +3,13 @@ package repl
 import (
 	"bufio"
 	"fmt"
-	"github.com/0x4D5352/pokedexcli/internal/cli"
-	"github.com/0x4D5352/pokedexcli/internal/config"
 	"os"
 	"strings"
+	"time"
+
+	"github.com/0x4D5352/pokedexcli/internal/cli"
+	"github.com/0x4D5352/pokedexcli/internal/config"
+	"github.com/0x4D5352/pokedexcli/internal/pokecache"
 )
 
 func StartRepl() {
@@ -15,6 +18,7 @@ func StartRepl() {
 	cfg := config.Config{
 		Next:     "",
 		Previous: "",
+		Cache:    *pokecache.NewCache(time.Minute * 5),
 	}
 	for running {
 		fmt.Print("Pokedex > ")
