@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-func commandHelp(cfg *config) error {
+func commandHelp(cfg *config, _ *string) error {
 	fmt.Println("Welcome to the Pokedex!")
 	fmt.Println("Usage:")
 	fmt.Println()
@@ -17,12 +17,12 @@ func commandHelp(cfg *config) error {
 	return nil
 }
 
-func commandExit(cfg *config) error {
+func commandExit(cfg *config, _ *string) error {
 	os.Exit(0)
 	return nil
 }
 
-func commandMapf(cfg *config) error {
+func commandMapf(cfg *config, _ *string) error {
 	locationsResp, err := cfg.pokeapiClient.ListLocations(cfg.nextLocationsURL)
 	if err != nil {
 		return err
@@ -37,7 +37,7 @@ func commandMapf(cfg *config) error {
 	return nil
 }
 
-func commandMapb(cfg *config) error {
+func commandMapb(cfg *config, _ *string) error {
 	if cfg.prevLocationsURL == nil {
 		return errors.New("you're on the first page")
 	}
@@ -52,6 +52,18 @@ func commandMapb(cfg *config) error {
 
 	for _, loc := range locationResp.Results {
 		fmt.Println(loc.Name)
+	}
+	return nil
+}
+
+func commandExplore(cfg *config, area *string) error {
+	locationsResp, err := cfg.pokeapiClient.ExploreArea(area)
+	if err != nil {
+		return err
+	}
+
+	for _, pokemon := range locationsResp.PokemonEncounters {
+		fmt.Println(pokemon.Pokemon.Name)
 	}
 	return nil
 }
