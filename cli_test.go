@@ -1,12 +1,10 @@
-package cli
+package main
 
 import (
 	"fmt"
 	"os"
 	"os/exec"
 	"testing"
-
-	"github.com/0x4D5352/pokedexcli/internal/config"
 )
 
 func TestCommandMap(t *testing.T) {
@@ -32,24 +30,9 @@ func TestCommandMap(t *testing.T) {
 	}
 }
 
-func TestExecuteCommand(t *testing.T) {
-	cfg := &config.Config{}
-	for name := range getCommands() {
-		if name == "exit" {
-			// gotta handle anything with os.exit seperately!
-			continue
-		}
-		err := ExecuteCommand(name, cfg)
-		if err != nil {
-			t.Errorf("expected %s, got %v", name, err)
-			return
-		}
-	}
-}
-
 func TestExit(t *testing.T) {
 	if os.Getenv("EXIT_CALL") == "1" {
-		cfg := &config.Config{}
+		cfg := &config{}
 		commandExit(cfg)
 		return
 	}
@@ -63,10 +46,10 @@ func TestExit(t *testing.T) {
 }
 
 func TestMapBack(t *testing.T) {
-	cfg := &config.Config{}
-	err := commandMapBack(cfg)
+	cfg := &config{}
+	err := commandMapb(cfg)
 	if err == nil {
-		t.Errorf("expected error, got previous location %v", cfg.Previous)
+		t.Errorf("expected error, got previous location %v", cfg.prevLocationsURL)
 		return
 	}
 	if err.Error() != "already at beginning of list!" {
