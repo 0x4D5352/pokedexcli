@@ -1,6 +1,8 @@
 package main
 
-import "github.com/0x4D5352/pokedexcli/internal/pokeapi"
+import (
+	"github.com/0x4D5352/pokedexcli/internal/pokeapi"
+)
 
 type Pokemon struct {
 	Name   string

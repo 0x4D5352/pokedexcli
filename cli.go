@@ -76,10 +76,10 @@ func commandExplore(cfg *config, args ...string) error {
 }
 
 func commandCatch(cfg *config, args ...string) error {
+	if len(args) != 1 {
+		return errors.New("you must provide a pokemon name")
+	}
 	if _, ok := cfg.pokedex[args[0]]; ok {
-		if len(args) != 1 {
-			return errors.New("you must provide a pokemon name")
-		}
 		return errors.New("already caught!")
 	}
 	pokemon, err := cfg.pokeapiClient.GetPokemon(args[0])
@@ -97,5 +97,33 @@ func commandCatch(cfg *config, args ...string) error {
 	}
 	fmt.Printf("%s was caught!\n", name)
 	cfg.pokedex[name] = catchPokemon(pokemon)
+	return nil
+}
+
+func commandInspect(cfg *config, args ...string) error {
+	if len(args) != 1 {
+		return errors.New("you must provide a pokemon name")
+	}
+	pokemon, ok := cfg.pokedex[args[0]]
+	if !ok {
+		return errors.New("haven't caught yet!")
+	}
+	fmt.Printf("Name: %s\n", pokemon.Name)
+	fmt.Printf("Height: %d\n", pokemon.Height)
+	fmt.Printf("Weight: %d\n", pokemon.Weight)
+	fmt.Println("Stats:")
+	for _, stat := range pokemon.Stats {
+		if stat.Name == "" {
+			continue
+		}
+		fmt.Printf("	-%s: %d\n", stat.Name, stat.Stat)
+	}
+	fmt.Println("Types:")
+	for _, t := range pokemon.Types {
+		if t == "" {
+			continue
+		}
+		fmt.Printf("	-%s\n", t)
+	}
 	return nil
 }
