@@ -1,0 +1,5210 @@
+[
+  {
+    "name": "bulbasaur",
+    "base_experience": 64
+  },
+  {
+    "name": "ivysaur",
+    "base_experience": 142
+  },
+  {
+    "name": "venusaur",
+    "base_experience": 263
+  },
+  {
+    "name": "charmander",
+    "base_experience": 62
+  },
+  {
+    "name": "charmeleon",
+    "base_experience": 142
+  },
+  {
+    "name": "charizard",
+    "base_experience": 267
+  },
+  {
+    "name": "squirtle",
+    "base_experience": 63
+  },
+  {
+    "name": "wartortle",
+    "base_experience": 142
+  },
+  {
+    "name": "blastoise",
+    "base_experience": 265
+  },
+  {
+    "name": "caterpie",
+    "base_experience": 39
+  },
+  {
+    "name": "metapod",
+    "base_experience": 72
+  },
+  {
+    "name": "butterfree",
+    "base_experience": 198
+  },
+  {
+    "name": "weedle",
+    "base_experience": 39
+  },
+  {
+    "name": "kakuna",
+    "base_experience": 72
+  },
+  {
+    "name": "beedrill",
+    "base_experience": 178
+  },
+  {
+    "name": "pidgey",
+    "base_experience": 50
+  },
+  {
+    "name": "pidgeotto",
+    "base_experience": 122
+  },
+  {
+    "name": "pidgeot",
+    "base_experience": 216
+  },
+  {
+    "name": "rattata",
+    "base_experience": 51
+  },
+  {
+    "name": "raticate",
+    "base_experience": 145
+  },
+  {
+    "name": "spearow",
+    "base_experience": 52
+  },
+  {
+    "name": "fearow",
+    "base_experience": 155
+  },
+  {
+    "name": "ekans",
+    "base_experience": 58
+  },
+  {
+    "name": "arbok",
+    "base_experience": 157
+  },
+  {
+    "name": "pikachu",
+    "base_experience": 112
+  },
+  {
+    "name": "raichu",
+    "base_experience": 243
+  },
+  {
+    "name": "sandshrew",
+    "base_experience": 60
+  },
+  {
+    "name": "sandslash",
+    "base_experience": 158
+  },
+  {
+    "name": "nidoran-f",
+    "base_experience": 55
+  },
+  {
+    "name": "nidorina",
+    "base_experience": 128
+  },
+  {
+    "name": "nidoqueen",
+    "base_experience": 253
+  },
+  {
+    "name": "nidoran-m",
+    "base_experience": 55
+  },
+  {
+    "name": "nidorino",
+    "base_experience": 128
+  },
+  {
+    "name": "nidoking",
+    "base_experience": 253
+  },
+  {
+    "name": "clefairy",
+    "base_experience": 113
+  },
+  {
+    "name": "clefable",
+    "base_experience": 242
+  },
+  {
+    "name": "vulpix",
+    "base_experience": 60
+  },
+  {
+    "name": "ninetales",
+    "base_experience": 177
+  },
+  {
+    "name": "jigglypuff",
+    "base_experience": 95
+  },
+  {
+    "name": "wigglytuff",
+    "base_experience": 218
+  },
+  {
+    "name": "zubat",
+    "base_experience": 49
+  },
+  {
+    "name": "golbat",
+    "base_experience": 159
+  },
+  {
+    "name": "oddish",
+    "base_experience": 64
+  },
+  {
+    "name": "gloom",
+    "base_experience": 138
+  },
+  {
+    "name": "vileplume",
+    "base_experience": 245
+  },
+  {
+    "name": "paras",
+    "base_experience": 57
+  },
+  {
+    "name": "parasect",
+    "base_experience": 142
+  },
+  {
+    "name": "venonat",
+    "base_experience": 61
+  },
+  {
+    "name": "venomoth",
+    "base_experience": 158
+  },
+  {
+    "name": "diglett",
+    "base_experience": 53
+  },
+  {
+    "name": "dugtrio",
+    "base_experience": 149
+  },
+  {
+    "name": "meowth",
+    "base_experience": 58
+  },
+  {
+    "name": "persian",
+    "base_experience": 154
+  },
+  {
+    "name": "psyduck",
+    "base_experience": 64
+  },
+  {
+    "name": "golduck",
+    "base_experience": 175
+  },
+  {
+    "name": "mankey",
+    "base_experience": 61
+  },
+  {
+    "name": "primeape",
+    "base_experience": 159
+  },
+  {
+    "name": "growlithe",
+    "base_experience": 70
+  },
+  {
+    "name": "arcanine",
+    "base_experience": 194
+  },
+  {
+    "name": "poliwag",
+    "base_experience": 60
+  },
+  {
+    "name": "poliwhirl",
+    "base_experience": 135
+  },
+  {
+    "name": "poliwrath",
+    "base_experience": 255
+  },
+  {
+    "name": "abra",
+    "base_experience": 62
+  },
+  {
+    "name": "kadabra",
+    "base_experience": 140
+  },
+  {
+    "name": "alakazam",
+    "base_experience": 250
+  },
+  {
+    "name": "machop",
+    "base_experience": 61
+  },
+  {
+    "name": "machoke",
+    "base_experience": 142
+  },
+  {
+    "name": "machamp",
+    "base_experience": 253
+  },
+  {
+    "name": "bellsprout",
+    "base_experience": 60
+  },
+  {
+    "name": "weepinbell",
+    "base_experience": 137
+  },
+  {
+    "name": "victreebel",
+    "base_experience": 221
+  },
+  {
+    "name": "tentacool",
+    "base_experience": 67
+  },
+  {
+    "name": "tentacruel",
+    "base_experience": 180
+  },
+  {
+    "name": "geodude",
+    "base_experience": 60
+  },
+  {
+    "name": "graveler",
+    "base_experience": 137
+  },
+  {
+    "name": "golem",
+    "base_experience": 223
+  },
+  {
+    "name": "ponyta",
+    "base_experience": 82
+  },
+  {
+    "name": "rapidash",
+    "base_experience": 175
+  },
+  {
+    "name": "slowpoke",
+    "base_experience": 63
+  },
+  {
+    "name": "slowbro",
+    "base_experience": 172
+  },
+  {
+    "name": "magnemite",
+    "base_experience": 65
+  },
+  {
+    "name": "magneton",
+    "base_experience": 163
+  },
+  {
+    "name": "farfetchd",
+    "base_experience": 132
+  },
+  {
+    "name": "doduo",
+    "base_experience": 62
+  },
+  {
+    "name": "dodrio",
+    "base_experience": 165
+  },
+  {
+    "name": "seel",
+    "base_experience": 65
+  },
+  {
+    "name": "dewgong",
+    "base_experience": 166
+  },
+  {
+    "name": "grimer",
+    "base_experience": 65
+  },
+  {
+    "name": "muk",
+    "base_experience": 175
+  },
+  {
+    "name": "shellder",
+    "base_experience": 61
+  },
+  {
+    "name": "cloyster",
+    "base_experience": 184
+  },
+  {
+    "name": "gastly",
+    "base_experience": 62
+  },
+  {
+    "name": "haunter",
+    "base_experience": 142
+  },
+  {
+    "name": "gengar",
+    "base_experience": 250
+  },
+  {
+    "name": "onix",
+    "base_experience": 77
+  },
+  {
+    "name": "drowzee",
+    "base_experience": 66
+  },
+  {
+    "name": "hypno",
+    "base_experience": 169
+  },
+  {
+    "name": "krabby",
+    "base_experience": 65
+  },
+  {
+    "name": "kingler",
+    "base_experience": 166
+  },
+  {
+    "name": "voltorb",
+    "base_experience": 66
+  },
+  {
+    "name": "electrode",
+    "base_experience": 172
+  },
+  {
+    "name": "exeggcute",
+    "base_experience": 65
+  },
+  {
+    "name": "exeggutor",
+    "base_experience": 186
+  },
+  {
+    "name": "cubone",
+    "base_experience": 64
+  },
+  {
+    "name": "marowak",
+    "base_experience": 149
+  },
+  {
+    "name": "hitmonlee",
+    "base_experience": 159
+  },
+  {
+    "name": "hitmonchan",
+    "base_experience": 159
+  },
+  {
+    "name": "lickitung",
+    "base_experience": 77
+  },
+  {
+    "name": "koffing",
+    "base_experience": 68
+  },
+  {
+    "name": "weezing",
+    "base_experience": 172
+  },
+  {
+    "name": "rhyhorn",
+    "base_experience": 69
+  },
+  {
+    "name": "rhydon",
+    "base_experience": 170
+  },
+  {
+    "name": "chansey",
+    "base_experience": 395
+  },
+  {
+    "name": "tangela",
+    "base_experience": 87
+  },
+  {
+    "name": "kangaskhan",
+    "base_experience": 172
+  },
+  {
+    "name": "horsea",
+    "base_experience": 59
+  },
+  {
+    "name": "seadra",
+    "base_experience": 154
+  },
+  {
+    "name": "goldeen",
+    "base_experience": 64
+  },
+  {
+    "name": "seaking",
+    "base_experience": 158
+  },
+  {
+    "name": "staryu",
+    "base_experience": 68
+  },
+  {
+    "name": "starmie",
+    "base_experience": 182
+  },
+  {
+    "name": "mr-mime",
+    "base_experience": 161
+  },
+  {
+    "name": "scyther",
+    "base_experience": 100
+  },
+  {
+    "name": "jynx",
+    "base_experience": 159
+  },
+  {
+    "name": "electabuzz",
+    "base_experience": 172
+  },
+  {
+    "name": "magmar",
+    "base_experience": 173
+  },
+  {
+    "name": "pinsir",
+    "base_experience": 175
+  },
+  {
+    "name": "tauros",
+    "base_experience": 172
+  },
+  {
+    "name": "magikarp",
+    "base_experience": 40
+  },
+  {
+    "name": "gyarados",
+    "base_experience": 189
+  },
+  {
+    "name": "lapras",
+    "base_experience": 187
+  },
+  {
+    "name": "ditto",
+    "base_experience": 101
+  },
+  {
+    "name": "eevee",
+    "base_experience": 65
+  },
+  {
+    "name": "vaporeon",
+    "base_experience": 184
+  },
+  {
+    "name": "jolteon",
+    "base_experience": 184
+  },
+  {
+    "name": "flareon",
+    "base_experience": 184
+  },
+  {
+    "name": "porygon",
+    "base_experience": 79
+  },
+  {
+    "name": "omanyte",
+    "base_experience": 71
+  },
+  {
+    "name": "omastar",
+    "base_experience": 173
+  },
+  {
+    "name": "kabuto",
+    "base_experience": 71
+  },
+  {
+    "name": "kabutops",
+    "base_experience": 173
+  },
+  {
+    "name": "aerodactyl",
+    "base_experience": 180
+  },
+  {
+    "name": "snorlax",
+    "base_experience": 189
+  },
+  {
+    "name": "articuno",
+    "base_experience": 290
+  },
+  {
+    "name": "zapdos",
+    "base_experience": 290
+  },
+  {
+    "name": "moltres",
+    "base_experience": 290
+  },
+  {
+    "name": "dratini",
+    "base_experience": 60
+  },
+  {
+    "name": "dragonair",
+    "base_experience": 147
+  },
+  {
+    "name": "dragonite",
+    "base_experience": 300
+  },
+  {
+    "name": "mewtwo",
+    "base_experience": 340
+  },
+  {
+    "name": "mew",
+    "base_experience": 300
+  },
+  {
+    "name": "chikorita",
+    "base_experience": 64
+  },
+  {
+    "name": "bayleef",
+    "base_experience": 142
+  },
+  {
+    "name": "meganium",
+    "base_experience": 236
+  },
+  {
+    "name": "cyndaquil",
+    "base_experience": 62
+  },
+  {
+    "name": "quilava",
+    "base_experience": 142
+  },
+  {
+    "name": "typhlosion",
+    "base_experience": 240
+  },
+  {
+    "name": "totodile",
+    "base_experience": 63
+  },
+  {
+    "name": "croconaw",
+    "base_experience": 142
+  },
+  {
+    "name": "feraligatr",
+    "base_experience": 239
+  },
+  {
+    "name": "sentret",
+    "base_experience": 43
+  },
+  {
+    "name": "furret",
+    "base_experience": 145
+  },
+  {
+    "name": "hoothoot",
+    "base_experience": 52
+  },
+  {
+    "name": "noctowl",
+    "base_experience": 158
+  },
+  {
+    "name": "ledyba",
+    "base_experience": 53
+  },
+  {
+    "name": "ledian",
+    "base_experience": 137
+  },
+  {
+    "name": "spinarak",
+    "base_experience": 50
+  },
+  {
+    "name": "ariados",
+    "base_experience": 140
+  },
+  {
+    "name": "crobat",
+    "base_experience": 268
+  },
+  {
+    "name": "chinchou",
+    "base_experience": 66
+  },
+  {
+    "name": "lanturn",
+    "base_experience": 161
+  },
+  {
+    "name": "pichu",
+    "base_experience": 41
+  },
+  {
+    "name": "cleffa",
+    "base_experience": 44
+  },
+  {
+    "name": "igglybuff",
+    "base_experience": 42
+  },
+  {
+    "name": "togepi",
+    "base_experience": 49
+  },
+  {
+    "name": "togetic",
+    "base_experience": 142
+  },
+  {
+    "name": "natu",
+    "base_experience": 64
+  },
+  {
+    "name": "xatu",
+    "base_experience": 165
+  },
+  {
+    "name": "mareep",
+    "base_experience": 56
+  },
+  {
+    "name": "flaaffy",
+    "base_experience": 128
+  },
+  {
+    "name": "ampharos",
+    "base_experience": 230
+  },
+  {
+    "name": "bellossom",
+    "base_experience": 245
+  },
+  {
+    "name": "marill",
+    "base_experience": 88
+  },
+  {
+    "name": "azumarill",
+    "base_experience": 210
+  },
+  {
+    "name": "sudowoodo",
+    "base_experience": 144
+  },
+  {
+    "name": "politoed",
+    "base_experience": 250
+  },
+  {
+    "name": "hoppip",
+    "base_experience": 50
+  },
+  {
+    "name": "skiploom",
+    "base_experience": 119
+  },
+  {
+    "name": "jumpluff",
+    "base_experience": 207
+  },
+  {
+    "name": "aipom",
+    "base_experience": 72
+  },
+  {
+    "name": "sunkern",
+    "base_experience": 36
+  },
+  {
+    "name": "sunflora",
+    "base_experience": 149
+  },
+  {
+    "name": "yanma",
+    "base_experience": 78
+  },
+  {
+    "name": "wooper",
+    "base_experience": 42
+  },
+  {
+    "name": "quagsire",
+    "base_experience": 151
+  },
+  {
+    "name": "espeon",
+    "base_experience": 184
+  },
+  {
+    "name": "umbreon",
+    "base_experience": 184
+  },
+  {
+    "name": "murkrow",
+    "base_experience": 81
+  },
+  {
+    "name": "slowking",
+    "base_experience": 172
+  },
+  {
+    "name": "misdreavus",
+    "base_experience": 87
+  },
+  {
+    "name": "unown",
+    "base_experience": 118
+  },
+  {
+    "name": "wobbuffet",
+    "base_experience": 142
+  },
+  {
+    "name": "girafarig",
+    "base_experience": 159
+  },
+  {
+    "name": "pineco",
+    "base_experience": 58
+  },
+  {
+    "name": "forretress",
+    "base_experience": 163
+  },
+  {
+    "name": "dunsparce",
+    "base_experience": 145
+  },
+  {
+    "name": "gligar",
+    "base_experience": 86
+  },
+  {
+    "name": "steelix",
+    "base_experience": 179
+  },
+  {
+    "name": "snubbull",
+    "base_experience": 60
+  },
+  {
+    "name": "granbull",
+    "base_experience": 158
+  },
+  {
+    "name": "qwilfish",
+    "base_experience": 88
+  },
+  {
+    "name": "scizor",
+    "base_experience": 175
+  },
+  {
+    "name": "shuckle",
+    "base_experience": 177
+  },
+  {
+    "name": "heracross",
+    "base_experience": 175
+  },
+  {
+    "name": "sneasel",
+    "base_experience": 86
+  },
+  {
+    "name": "teddiursa",
+    "base_experience": 66
+  },
+  {
+    "name": "ursaring",
+    "base_experience": 175
+  },
+  {
+    "name": "slugma",
+    "base_experience": 50
+  },
+  {
+    "name": "magcargo",
+    "base_experience": 151
+  },
+  {
+    "name": "swinub",
+    "base_experience": 50
+  },
+  {
+    "name": "piloswine",
+    "base_experience": 158
+  },
+  {
+    "name": "corsola",
+    "base_experience": 144
+  },
+  {
+    "name": "remoraid",
+    "base_experience": 60
+  },
+  {
+    "name": "octillery",
+    "base_experience": 168
+  },
+  {
+    "name": "delibird",
+    "base_experience": 116
+  },
+  {
+    "name": "mantine",
+    "base_experience": 170
+  },
+  {
+    "name": "skarmory",
+    "base_experience": 163
+  },
+  {
+    "name": "houndour",
+    "base_experience": 66
+  },
+  {
+    "name": "houndoom",
+    "base_experience": 175
+  },
+  {
+    "name": "kingdra",
+    "base_experience": 270
+  },
+  {
+    "name": "phanpy",
+    "base_experience": 66
+  },
+  {
+    "name": "donphan",
+    "base_experience": 175
+  },
+  {
+    "name": "porygon2",
+    "base_experience": 180
+  },
+  {
+    "name": "stantler",
+    "base_experience": 163
+  },
+  {
+    "name": "smeargle",
+    "base_experience": 88
+  },
+  {
+    "name": "tyrogue",
+    "base_experience": 42
+  },
+  {
+    "name": "hitmontop",
+    "base_experience": 159
+  },
+  {
+    "name": "smoochum",
+    "base_experience": 61
+  },
+  {
+    "name": "elekid",
+    "base_experience": 72
+  },
+  {
+    "name": "magby",
+    "base_experience": 73
+  },
+  {
+    "name": "miltank",
+    "base_experience": 172
+  },
+  {
+    "name": "blissey",
+    "base_experience": 635
+  },
+  {
+    "name": "raikou",
+    "base_experience": 290
+  },
+  {
+    "name": "entei",
+    "base_experience": 290
+  },
+  {
+    "name": "suicune",
+    "base_experience": 290
+  },
+  {
+    "name": "larvitar",
+    "base_experience": 60
+  },
+  {
+    "name": "pupitar",
+    "base_experience": 144
+  },
+  {
+    "name": "tyranitar",
+    "base_experience": 300
+  },
+  {
+    "name": "lugia",
+    "base_experience": 340
+  },
+  {
+    "name": "ho-oh",
+    "base_experience": 340
+  },
+  {
+    "name": "celebi",
+    "base_experience": 300
+  },
+  {
+    "name": "treecko",
+    "base_experience": 62
+  },
+  {
+    "name": "grovyle",
+    "base_experience": 142
+  },
+  {
+    "name": "sceptile",
+    "base_experience": 265
+  },
+  {
+    "name": "torchic",
+    "base_experience": 62
+  },
+  {
+    "name": "combusken",
+    "base_experience": 142
+  },
+  {
+    "name": "blaziken",
+    "base_experience": 265
+  },
+  {
+    "name": "mudkip",
+    "base_experience": 62
+  },
+  {
+    "name": "marshtomp",
+    "base_experience": 142
+  },
+  {
+    "name": "swampert",
+    "base_experience": 268
+  },
+  {
+    "name": "poochyena",
+    "base_experience": 56
+  },
+  {
+    "name": "mightyena",
+    "base_experience": 147
+  },
+  {
+    "name": "zigzagoon",
+    "base_experience": 56
+  },
+  {
+    "name": "linoone",
+    "base_experience": 147
+  },
+  {
+    "name": "wurmple",
+    "base_experience": 56
+  },
+  {
+    "name": "silcoon",
+    "base_experience": 72
+  },
+  {
+    "name": "beautifly",
+    "base_experience": 178
+  },
+  {
+    "name": "cascoon",
+    "base_experience": 72
+  },
+  {
+    "name": "dustox",
+    "base_experience": 173
+  },
+  {
+    "name": "lotad",
+    "base_experience": 44
+  },
+  {
+    "name": "lombre",
+    "base_experience": 119
+  },
+  {
+    "name": "ludicolo",
+    "base_experience": 240
+  },
+  {
+    "name": "seedot",
+    "base_experience": 44
+  },
+  {
+    "name": "nuzleaf",
+    "base_experience": 119
+  },
+  {
+    "name": "shiftry",
+    "base_experience": 240
+  },
+  {
+    "name": "taillow",
+    "base_experience": 54
+  },
+  {
+    "name": "swellow",
+    "base_experience": 159
+  },
+  {
+    "name": "wingull",
+    "base_experience": 54
+  },
+  {
+    "name": "pelipper",
+    "base_experience": 154
+  },
+  {
+    "name": "ralts",
+    "base_experience": 40
+  },
+  {
+    "name": "kirlia",
+    "base_experience": 97
+  },
+  {
+    "name": "gardevoir",
+    "base_experience": 259
+  },
+  {
+    "name": "surskit",
+    "base_experience": 54
+  },
+  {
+    "name": "masquerain",
+    "base_experience": 159
+  },
+  {
+    "name": "shroomish",
+    "base_experience": 59
+  },
+  {
+    "name": "breloom",
+    "base_experience": 161
+  },
+  {
+    "name": "slakoth",
+    "base_experience": 56
+  },
+  {
+    "name": "vigoroth",
+    "base_experience": 154
+  },
+  {
+    "name": "slaking",
+    "base_experience": 252
+  },
+  {
+    "name": "nincada",
+    "base_experience": 53
+  },
+  {
+    "name": "ninjask",
+    "base_experience": 160
+  },
+  {
+    "name": "shedinja",
+    "base_experience": 83
+  },
+  {
+    "name": "whismur",
+    "base_experience": 48
+  },
+  {
+    "name": "loudred",
+    "base_experience": 126
+  },
+  {
+    "name": "exploud",
+    "base_experience": 245
+  },
+  {
+    "name": "makuhita",
+    "base_experience": 47
+  },
+  {
+    "name": "hariyama",
+    "base_experience": 166
+  },
+  {
+    "name": "azurill",
+    "base_experience": 38
+  },
+  {
+    "name": "nosepass",
+    "base_experience": 75
+  },
+  {
+    "name": "skitty",
+    "base_experience": 52
+  },
+  {
+    "name": "delcatty",
+    "base_experience": 140
+  },
+  {
+    "name": "sableye",
+    "base_experience": 133
+  },
+  {
+    "name": "mawile",
+    "base_experience": 133
+  },
+  {
+    "name": "aron",
+    "base_experience": 66
+  },
+  {
+    "name": "lairon",
+    "base_experience": 151
+  },
+  {
+    "name": "aggron",
+    "base_experience": 265
+  },
+  {
+    "name": "meditite",
+    "base_experience": 56
+  },
+  {
+    "name": "medicham",
+    "base_experience": 144
+  },
+  {
+    "name": "electrike",
+    "base_experience": 59
+  },
+  {
+    "name": "manectric",
+    "base_experience": 166
+  },
+  {
+    "name": "plusle",
+    "base_experience": 142
+  },
+  {
+    "name": "minun",
+    "base_experience": 142
+  },
+  {
+    "name": "volbeat",
+    "base_experience": 151
+  },
+  {
+    "name": "illumise",
+    "base_experience": 151
+  },
+  {
+    "name": "roselia",
+    "base_experience": 140
+  },
+  {
+    "name": "gulpin",
+    "base_experience": 60
+  },
+  {
+    "name": "swalot",
+    "base_experience": 163
+  },
+  {
+    "name": "carvanha",
+    "base_experience": 61
+  },
+  {
+    "name": "sharpedo",
+    "base_experience": 161
+  },
+  {
+    "name": "wailmer",
+    "base_experience": 80
+  },
+  {
+    "name": "wailord",
+    "base_experience": 175
+  },
+  {
+    "name": "numel",
+    "base_experience": 61
+  },
+  {
+    "name": "camerupt",
+    "base_experience": 161
+  },
+  {
+    "name": "torkoal",
+    "base_experience": 165
+  },
+  {
+    "name": "spoink",
+    "base_experience": 66
+  },
+  {
+    "name": "grumpig",
+    "base_experience": 165
+  },
+  {
+    "name": "spinda",
+    "base_experience": 126
+  },
+  {
+    "name": "trapinch",
+    "base_experience": 58
+  },
+  {
+    "name": "vibrava",
+    "base_experience": 119
+  },
+  {
+    "name": "flygon",
+    "base_experience": 260
+  },
+  {
+    "name": "cacnea",
+    "base_experience": 67
+  },
+  {
+    "name": "cacturne",
+    "base_experience": 166
+  },
+  {
+    "name": "swablu",
+    "base_experience": 62
+  },
+  {
+    "name": "altaria",
+    "base_experience": 172
+  },
+  {
+    "name": "zangoose",
+    "base_experience": 160
+  },
+  {
+    "name": "seviper",
+    "base_experience": 160
+  },
+  {
+    "name": "lunatone",
+    "base_experience": 161
+  },
+  {
+    "name": "solrock",
+    "base_experience": 161
+  },
+  {
+    "name": "barboach",
+    "base_experience": 58
+  },
+  {
+    "name": "whiscash",
+    "base_experience": 164
+  },
+  {
+    "name": "corphish",
+    "base_experience": 62
+  },
+  {
+    "name": "crawdaunt",
+    "base_experience": 164
+  },
+  {
+    "name": "baltoy",
+    "base_experience": 60
+  },
+  {
+    "name": "claydol",
+    "base_experience": 175
+  },
+  {
+    "name": "lileep",
+    "base_experience": 71
+  },
+  {
+    "name": "cradily",
+    "base_experience": 173
+  },
+  {
+    "name": "anorith",
+    "base_experience": 71
+  },
+  {
+    "name": "armaldo",
+    "base_experience": 173
+  },
+  {
+    "name": "feebas",
+    "base_experience": 40
+  },
+  {
+    "name": "milotic",
+    "base_experience": 189
+  },
+  {
+    "name": "castform",
+    "base_experience": 147
+  },
+  {
+    "name": "kecleon",
+    "base_experience": 154
+  },
+  {
+    "name": "shuppet",
+    "base_experience": 59
+  },
+  {
+    "name": "banette",
+    "base_experience": 159
+  },
+  {
+    "name": "duskull",
+    "base_experience": 59
+  },
+  {
+    "name": "dusclops",
+    "base_experience": 159
+  },
+  {
+    "name": "tropius",
+    "base_experience": 161
+  },
+  {
+    "name": "chimecho",
+    "base_experience": 159
+  },
+  {
+    "name": "absol",
+    "base_experience": 163
+  },
+  {
+    "name": "wynaut",
+    "base_experience": 52
+  },
+  {
+    "name": "snorunt",
+    "base_experience": 60
+  },
+  {
+    "name": "glalie",
+    "base_experience": 168
+  },
+  {
+    "name": "spheal",
+    "base_experience": 58
+  },
+  {
+    "name": "sealeo",
+    "base_experience": 144
+  },
+  {
+    "name": "walrein",
+    "base_experience": 265
+  },
+  {
+    "name": "clamperl",
+    "base_experience": 69
+  },
+  {
+    "name": "huntail",
+    "base_experience": 170
+  },
+  {
+    "name": "gorebyss",
+    "base_experience": 170
+  },
+  {
+    "name": "relicanth",
+    "base_experience": 170
+  },
+  {
+    "name": "luvdisc",
+    "base_experience": 116
+  },
+  {
+    "name": "bagon",
+    "base_experience": 60
+  },
+  {
+    "name": "shelgon",
+    "base_experience": 147
+  },
+  {
+    "name": "salamence",
+    "base_experience": 300
+  },
+  {
+    "name": "beldum",
+    "base_experience": 60
+  },
+  {
+    "name": "metang",
+    "base_experience": 147
+  },
+  {
+    "name": "metagross",
+    "base_experience": 300
+  },
+  {
+    "name": "regirock",
+    "base_experience": 290
+  },
+  {
+    "name": "regice",
+    "base_experience": 290
+  },
+  {
+    "name": "registeel",
+    "base_experience": 290
+  },
+  {
+    "name": "latias",
+    "base_experience": 300
+  },
+  {
+    "name": "latios",
+    "base_experience": 300
+  },
+  {
+    "name": "kyogre",
+    "base_experience": 335
+  },
+  {
+    "name": "groudon",
+    "base_experience": 335
+  },
+  {
+    "name": "rayquaza",
+    "base_experience": 340
+  },
+  {
+    "name": "jirachi",
+    "base_experience": 300
+  },
+  {
+    "name": "deoxys-normal",
+    "base_experience": 270
+  },
+  {
+    "name": "turtwig",
+    "base_experience": 64
+  },
+  {
+    "name": "grotle",
+    "base_experience": 142
+  },
+  {
+    "name": "torterra",
+    "base_experience": 236
+  },
+  {
+    "name": "chimchar",
+    "base_experience": 62
+  },
+  {
+    "name": "monferno",
+    "base_experience": 142
+  },
+  {
+    "name": "infernape",
+    "base_experience": 240
+  },
+  {
+    "name": "piplup",
+    "base_experience": 63
+  },
+  {
+    "name": "prinplup",
+    "base_experience": 142
+  },
+  {
+    "name": "empoleon",
+    "base_experience": 239
+  },
+  {
+    "name": "starly",
+    "base_experience": 49
+  },
+  {
+    "name": "staravia",
+    "base_experience": 119
+  },
+  {
+    "name": "staraptor",
+    "base_experience": 218
+  },
+  {
+    "name": "bidoof",
+    "base_experience": 50
+  },
+  {
+    "name": "bibarel",
+    "base_experience": 144
+  },
+  {
+    "name": "kricketot",
+    "base_experience": 39
+  },
+  {
+    "name": "kricketune",
+    "base_experience": 134
+  },
+  {
+    "name": "shinx",
+    "base_experience": 53
+  },
+  {
+    "name": "luxio",
+    "base_experience": 127
+  },
+  {
+    "name": "luxray",
+    "base_experience": 262
+  },
+  {
+    "name": "budew",
+    "base_experience": 56
+  },
+  {
+    "name": "roserade",
+    "base_experience": 258
+  },
+  {
+    "name": "cranidos",
+    "base_experience": 70
+  },
+  {
+    "name": "rampardos",
+    "base_experience": 173
+  },
+  {
+    "name": "shieldon",
+    "base_experience": 70
+  },
+  {
+    "name": "bastiodon",
+    "base_experience": 173
+  },
+  {
+    "name": "burmy",
+    "base_experience": 45
+  },
+  {
+    "name": "wormadam-plant",
+    "base_experience": 148
+  },
+  {
+    "name": "mothim",
+    "base_experience": 148
+  },
+  {
+    "name": "combee",
+    "base_experience": 49
+  },
+  {
+    "name": "vespiquen",
+    "base_experience": 166
+  },
+  {
+    "name": "pachirisu",
+    "base_experience": 142
+  },
+  {
+    "name": "buizel",
+    "base_experience": 66
+  },
+  {
+    "name": "floatzel",
+    "base_experience": 173
+  },
+  {
+    "name": "cherubi",
+    "base_experience": 55
+  },
+  {
+    "name": "cherrim",
+    "base_experience": 158
+  },
+  {
+    "name": "shellos",
+    "base_experience": 65
+  },
+  {
+    "name": "gastrodon",
+    "base_experience": 166
+  },
+  {
+    "name": "ambipom",
+    "base_experience": 169
+  },
+  {
+    "name": "drifloon",
+    "base_experience": 70
+  },
+  {
+    "name": "drifblim",
+    "base_experience": 174
+  },
+  {
+    "name": "buneary",
+    "base_experience": 70
+  },
+  {
+    "name": "lopunny",
+    "base_experience": 168
+  },
+  {
+    "name": "mismagius",
+    "base_experience": 173
+  },
+  {
+    "name": "honchkrow",
+    "base_experience": 177
+  },
+  {
+    "name": "glameow",
+    "base_experience": 62
+  },
+  {
+    "name": "purugly",
+    "base_experience": 158
+  },
+  {
+    "name": "chingling",
+    "base_experience": 57
+  },
+  {
+    "name": "stunky",
+    "base_experience": 66
+  },
+  {
+    "name": "skuntank",
+    "base_experience": 168
+  },
+  {
+    "name": "bronzor",
+    "base_experience": 60
+  },
+  {
+    "name": "bronzong",
+    "base_experience": 175
+  },
+  {
+    "name": "bonsly",
+    "base_experience": 58
+  },
+  {
+    "name": "mime-jr",
+    "base_experience": 62
+  },
+  {
+    "name": "happiny",
+    "base_experience": 110
+  },
+  {
+    "name": "chatot",
+    "base_experience": 144
+  },
+  {
+    "name": "spiritomb",
+    "base_experience": 170
+  },
+  {
+    "name": "gible",
+    "base_experience": 60
+  },
+  {
+    "name": "gabite",
+    "base_experience": 144
+  },
+  {
+    "name": "garchomp",
+    "base_experience": 300
+  },
+  {
+    "name": "munchlax",
+    "base_experience": 78
+  },
+  {
+    "name": "riolu",
+    "base_experience": 57
+  },
+  {
+    "name": "lucario",
+    "base_experience": 184
+  },
+  {
+    "name": "hippopotas",
+    "base_experience": 66
+  },
+  {
+    "name": "hippowdon",
+    "base_experience": 184
+  },
+  {
+    "name": "skorupi",
+    "base_experience": 66
+  },
+  {
+    "name": "drapion",
+    "base_experience": 175
+  },
+  {
+    "name": "croagunk",
+    "base_experience": 60
+  },
+  {
+    "name": "toxicroak",
+    "base_experience": 172
+  },
+  {
+    "name": "carnivine",
+    "base_experience": 159
+  },
+  {
+    "name": "finneon",
+    "base_experience": 66
+  },
+  {
+    "name": "lumineon",
+    "base_experience": 161
+  },
+  {
+    "name": "mantyke",
+    "base_experience": 69
+  },
+  {
+    "name": "snover",
+    "base_experience": 67
+  },
+  {
+    "name": "abomasnow",
+    "base_experience": 173
+  },
+  {
+    "name": "weavile",
+    "base_experience": 179
+  },
+  {
+    "name": "magnezone",
+    "base_experience": 268
+  },
+  {
+    "name": "lickilicky",
+    "base_experience": 180
+  },
+  {
+    "name": "rhyperior",
+    "base_experience": 268
+  },
+  {
+    "name": "tangrowth",
+    "base_experience": 187
+  },
+  {
+    "name": "electivire",
+    "base_experience": 270
+  },
+  {
+    "name": "magmortar",
+    "base_experience": 270
+  },
+  {
+    "name": "togekiss",
+    "base_experience": 273
+  },
+  {
+    "name": "yanmega",
+    "base_experience": 180
+  },
+  {
+    "name": "leafeon",
+    "base_experience": 184
+  },
+  {
+    "name": "glaceon",
+    "base_experience": 184
+  },
+  {
+    "name": "gliscor",
+    "base_experience": 179
+  },
+  {
+    "name": "mamoswine",
+    "base_experience": 265
+  },
+  {
+    "name": "porygon-z",
+    "base_experience": 268
+  },
+  {
+    "name": "gallade",
+    "base_experience": 259
+  },
+  {
+    "name": "probopass",
+    "base_experience": 184
+  },
+  {
+    "name": "dusknoir",
+    "base_experience": 263
+  },
+  {
+    "name": "froslass",
+    "base_experience": 168
+  },
+  {
+    "name": "rotom",
+    "base_experience": 154
+  },
+  {
+    "name": "uxie",
+    "base_experience": 290
+  },
+  {
+    "name": "mesprit",
+    "base_experience": 290
+  },
+  {
+    "name": "azelf",
+    "base_experience": 290
+  },
+  {
+    "name": "dialga",
+    "base_experience": 340
+  },
+  {
+    "name": "palkia",
+    "base_experience": 340
+  },
+  {
+    "name": "heatran",
+    "base_experience": 300
+  },
+  {
+    "name": "regigigas",
+    "base_experience": 335
+  },
+  {
+    "name": "giratina-altered",
+    "base_experience": 340
+  },
+  {
+    "name": "cresselia",
+    "base_experience": 300
+  },
+  {
+    "name": "phione",
+    "base_experience": 216
+  },
+  {
+    "name": "manaphy",
+    "base_experience": 270
+  },
+  {
+    "name": "darkrai",
+    "base_experience": 270
+  },
+  {
+    "name": "shaymin-land",
+    "base_experience": 270
+  },
+  {
+    "name": "arceus",
+    "base_experience": 324
+  },
+  {
+    "name": "victini",
+    "base_experience": 300
+  },
+  {
+    "name": "snivy",
+    "base_experience": 62
+  },
+  {
+    "name": "servine",
+    "base_experience": 145
+  },
+  {
+    "name": "serperior",
+    "base_experience": 238
+  },
+  {
+    "name": "tepig",
+    "base_experience": 62
+  },
+  {
+    "name": "pignite",
+    "base_experience": 146
+  },
+  {
+    "name": "emboar",
+    "base_experience": 238
+  },
+  {
+    "name": "oshawott",
+    "base_experience": 62
+  },
+  {
+    "name": "dewott",
+    "base_experience": 145
+  },
+  {
+    "name": "samurott",
+    "base_experience": 238
+  },
+  {
+    "name": "patrat",
+    "base_experience": 51
+  },
+  {
+    "name": "watchog",
+    "base_experience": 147
+  },
+  {
+    "name": "lillipup",
+    "base_experience": 55
+  },
+  {
+    "name": "herdier",
+    "base_experience": 130
+  },
+  {
+    "name": "stoutland",
+    "base_experience": 250
+  },
+  {
+    "name": "purrloin",
+    "base_experience": 56
+  },
+  {
+    "name": "liepard",
+    "base_experience": 156
+  },
+  {
+    "name": "pansage",
+    "base_experience": 63
+  },
+  {
+    "name": "simisage",
+    "base_experience": 174
+  },
+  {
+    "name": "pansear",
+    "base_experience": 63
+  },
+  {
+    "name": "simisear",
+    "base_experience": 174
+  },
+  {
+    "name": "panpour",
+    "base_experience": 63
+  },
+  {
+    "name": "simipour",
+    "base_experience": 174
+  },
+  {
+    "name": "munna",
+    "base_experience": 58
+  },
+  {
+    "name": "musharna",
+    "base_experience": 170
+  },
+  {
+    "name": "pidove",
+    "base_experience": 53
+  },
+  {
+    "name": "tranquill",
+    "base_experience": 125
+  },
+  {
+    "name": "unfezant",
+    "base_experience": 244
+  },
+  {
+    "name": "blitzle",
+    "base_experience": 59
+  },
+  {
+    "name": "zebstrika",
+    "base_experience": 174
+  },
+  {
+    "name": "roggenrola",
+    "base_experience": 56
+  },
+  {
+    "name": "boldore",
+    "base_experience": 137
+  },
+  {
+    "name": "gigalith",
+    "base_experience": 258
+  },
+  {
+    "name": "woobat",
+    "base_experience": 65
+  },
+  {
+    "name": "swoobat",
+    "base_experience": 149
+  },
+  {
+    "name": "drilbur",
+    "base_experience": 66
+  },
+  {
+    "name": "excadrill",
+    "base_experience": 178
+  },
+  {
+    "name": "audino",
+    "base_experience": 390
+  },
+  {
+    "name": "timburr",
+    "base_experience": 61
+  },
+  {
+    "name": "gurdurr",
+    "base_experience": 142
+  },
+  {
+    "name": "conkeldurr",
+    "base_experience": 253
+  },
+  {
+    "name": "tympole",
+    "base_experience": 59
+  },
+  {
+    "name": "palpitoad",
+    "base_experience": 134
+  },
+  {
+    "name": "seismitoad",
+    "base_experience": 255
+  },
+  {
+    "name": "throh",
+    "base_experience": 163
+  },
+  {
+    "name": "sawk",
+    "base_experience": 163
+  },
+  {
+    "name": "sewaddle",
+    "base_experience": 62
+  },
+  {
+    "name": "swadloon",
+    "base_experience": 133
+  },
+  {
+    "name": "leavanny",
+    "base_experience": 225
+  },
+  {
+    "name": "venipede",
+    "base_experience": 52
+  },
+  {
+    "name": "whirlipede",
+    "base_experience": 126
+  },
+  {
+    "name": "scolipede",
+    "base_experience": 243
+  },
+  {
+    "name": "cottonee",
+    "base_experience": 56
+  },
+  {
+    "name": "whimsicott",
+    "base_experience": 168
+  },
+  {
+    "name": "petilil",
+    "base_experience": 56
+  },
+  {
+    "name": "lilligant",
+    "base_experience": 168
+  },
+  {
+    "name": "basculin-red-striped",
+    "base_experience": 161
+  },
+  {
+    "name": "sandile",
+    "base_experience": 58
+  },
+  {
+    "name": "krokorok",
+    "base_experience": 123
+  },
+  {
+    "name": "krookodile",
+    "base_experience": 260
+  },
+  {
+    "name": "darumaka",
+    "base_experience": 63
+  },
+  {
+    "name": "darmanitan-standard",
+    "base_experience": 168
+  },
+  {
+    "name": "maractus",
+    "base_experience": 161
+  },
+  {
+    "name": "dwebble",
+    "base_experience": 65
+  },
+  {
+    "name": "crustle",
+    "base_experience": 170
+  },
+  {
+    "name": "scraggy",
+    "base_experience": 70
+  },
+  {
+    "name": "scrafty",
+    "base_experience": 171
+  },
+  {
+    "name": "sigilyph",
+    "base_experience": 172
+  },
+  {
+    "name": "yamask",
+    "base_experience": 61
+  },
+  {
+    "name": "cofagrigus",
+    "base_experience": 169
+  },
+  {
+    "name": "tirtouga",
+    "base_experience": 71
+  },
+  {
+    "name": "carracosta",
+    "base_experience": 173
+  },
+  {
+    "name": "archen",
+    "base_experience": 71
+  },
+  {
+    "name": "archeops",
+    "base_experience": 177
+  },
+  {
+    "name": "trubbish",
+    "base_experience": 66
+  },
+  {
+    "name": "garbodor",
+    "base_experience": 166
+  },
+  {
+    "name": "zorua",
+    "base_experience": 66
+  },
+  {
+    "name": "zoroark",
+    "base_experience": 179
+  },
+  {
+    "name": "minccino",
+    "base_experience": 60
+  },
+  {
+    "name": "cinccino",
+    "base_experience": 165
+  },
+  {
+    "name": "gothita",
+    "base_experience": 58
+  },
+  {
+    "name": "gothorita",
+    "base_experience": 137
+  },
+  {
+    "name": "gothitelle",
+    "base_experience": 245
+  },
+  {
+    "name": "solosis",
+    "base_experience": 58
+  },
+  {
+    "name": "duosion",
+    "base_experience": 130
+  },
+  {
+    "name": "reuniclus",
+    "base_experience": 245
+  },
+  {
+    "name": "ducklett",
+    "base_experience": 61
+  },
+  {
+    "name": "swanna",
+    "base_experience": 166
+  },
+  {
+    "name": "vanillite",
+    "base_experience": 61
+  },
+  {
+    "name": "vanillish",
+    "base_experience": 138
+  },
+  {
+    "name": "vanilluxe",
+    "base_experience": 268
+  },
+  {
+    "name": "deerling",
+    "base_experience": 67
+  },
+  {
+    "name": "sawsbuck",
+    "base_experience": 166
+  },
+  {
+    "name": "emolga",
+    "base_experience": 150
+  },
+  {
+    "name": "karrablast",
+    "base_experience": 63
+  },
+  {
+    "name": "escavalier",
+    "base_experience": 173
+  },
+  {
+    "name": "foongus",
+    "base_experience": 59
+  },
+  {
+    "name": "amoonguss",
+    "base_experience": 162
+  },
+  {
+    "name": "frillish",
+    "base_experience": 67
+  },
+  {
+    "name": "jellicent",
+    "base_experience": 168
+  },
+  {
+    "name": "alomomola",
+    "base_experience": 165
+  },
+  {
+    "name": "joltik",
+    "base_experience": 64
+  },
+  {
+    "name": "galvantula",
+    "base_experience": 165
+  },
+  {
+    "name": "ferroseed",
+    "base_experience": 61
+  },
+  {
+    "name": "ferrothorn",
+    "base_experience": 171
+  },
+  {
+    "name": "klink",
+    "base_experience": 60
+  },
+  {
+    "name": "klang",
+    "base_experience": 154
+  },
+  {
+    "name": "klinklang",
+    "base_experience": 260
+  },
+  {
+    "name": "tynamo",
+    "base_experience": 55
+  },
+  {
+    "name": "eelektrik",
+    "base_experience": 142
+  },
+  {
+    "name": "eelektross",
+    "base_experience": 232
+  },
+  {
+    "name": "elgyem",
+    "base_experience": 67
+  },
+  {
+    "name": "beheeyem",
+    "base_experience": 170
+  },
+  {
+    "name": "litwick",
+    "base_experience": 55
+  },
+  {
+    "name": "lampent",
+    "base_experience": 130
+  },
+  {
+    "name": "chandelure",
+    "base_experience": 260
+  },
+  {
+    "name": "axew",
+    "base_experience": 64
+  },
+  {
+    "name": "fraxure",
+    "base_experience": 144
+  },
+  {
+    "name": "haxorus",
+    "base_experience": 270
+  },
+  {
+    "name": "cubchoo",
+    "base_experience": 61
+  },
+  {
+    "name": "beartic",
+    "base_experience": 177
+  },
+  {
+    "name": "cryogonal",
+    "base_experience": 180
+  },
+  {
+    "name": "shelmet",
+    "base_experience": 61
+  },
+  {
+    "name": "accelgor",
+    "base_experience": 173
+  },
+  {
+    "name": "stunfisk",
+    "base_experience": 165
+  },
+  {
+    "name": "mienfoo",
+    "base_experience": 70
+  },
+  {
+    "name": "mienshao",
+    "base_experience": 179
+  },
+  {
+    "name": "druddigon",
+    "base_experience": 170
+  },
+  {
+    "name": "golett",
+    "base_experience": 61
+  },
+  {
+    "name": "golurk",
+    "base_experience": 169
+  },
+  {
+    "name": "pawniard",
+    "base_experience": 68
+  },
+  {
+    "name": "bisharp",
+    "base_experience": 172
+  },
+  {
+    "name": "bouffalant",
+    "base_experience": 172
+  },
+  {
+    "name": "rufflet",
+    "base_experience": 70
+  },
+  {
+    "name": "braviary",
+    "base_experience": 179
+  },
+  {
+    "name": "vullaby",
+    "base_experience": 74
+  },
+  {
+    "name": "mandibuzz",
+    "base_experience": 179
+  },
+  {
+    "name": "heatmor",
+    "base_experience": 169
+  },
+  {
+    "name": "durant",
+    "base_experience": 169
+  },
+  {
+    "name": "deino",
+    "base_experience": 60
+  },
+  {
+    "name": "zweilous",
+    "base_experience": 147
+  },
+  {
+    "name": "hydreigon",
+    "base_experience": 300
+  },
+  {
+    "name": "larvesta",
+    "base_experience": 72
+  },
+  {
+    "name": "volcarona",
+    "base_experience": 275
+  },
+  {
+    "name": "cobalion",
+    "base_experience": 290
+  },
+  {
+    "name": "terrakion",
+    "base_experience": 290
+  },
+  {
+    "name": "virizion",
+    "base_experience": 290
+  },
+  {
+    "name": "tornadus-incarnate",
+    "base_experience": 290
+  },
+  {
+    "name": "thundurus-incarnate",
+    "base_experience": 290
+  },
+  {
+    "name": "reshiram",
+    "base_experience": 340
+  },
+  {
+    "name": "zekrom",
+    "base_experience": 340
+  },
+  {
+    "name": "landorus-incarnate",
+    "base_experience": 300
+  },
+  {
+    "name": "kyurem",
+    "base_experience": 330
+  },
+  {
+    "name": "keldeo-ordinary",
+    "base_experience": 290
+  },
+  {
+    "name": "meloetta-aria",
+    "base_experience": 270
+  },
+  {
+    "name": "genesect",
+    "base_experience": 300
+  },
+  {
+    "name": "chespin",
+    "base_experience": 63
+  },
+  {
+    "name": "quilladin",
+    "base_experience": 142
+  },
+  {
+    "name": "chesnaught",
+    "base_experience": 239
+  },
+  {
+    "name": "fennekin",
+    "base_experience": 61
+  },
+  {
+    "name": "braixen",
+    "base_experience": 143
+  },
+  {
+    "name": "delphox",
+    "base_experience": 240
+  },
+  {
+    "name": "froakie",
+    "base_experience": 63
+  },
+  {
+    "name": "frogadier",
+    "base_experience": 142
+  },
+  {
+    "name": "greninja",
+    "base_experience": 239
+  },
+  {
+    "name": "bunnelby",
+    "base_experience": 47
+  },
+  {
+    "name": "diggersby",
+    "base_experience": 148
+  },
+  {
+    "name": "fletchling",
+    "base_experience": 56
+  },
+  {
+    "name": "fletchinder",
+    "base_experience": 134
+  },
+  {
+    "name": "talonflame",
+    "base_experience": 175
+  },
+  {
+    "name": "scatterbug",
+    "base_experience": 40
+  },
+  {
+    "name": "spewpa",
+    "base_experience": 75
+  },
+  {
+    "name": "vivillon",
+    "base_experience": 185
+  },
+  {
+    "name": "litleo",
+    "base_experience": 74
+  },
+  {
+    "name": "pyroar",
+    "base_experience": 177
+  },
+  {
+    "name": "flabebe",
+    "base_experience": 61
+  },
+  {
+    "name": "floette",
+    "base_experience": 130
+  },
+  {
+    "name": "florges",
+    "base_experience": 248
+  },
+  {
+    "name": "skiddo",
+    "base_experience": 70
+  },
+  {
+    "name": "gogoat",
+    "base_experience": 186
+  },
+  {
+    "name": "pancham",
+    "base_experience": 70
+  },
+  {
+    "name": "pangoro",
+    "base_experience": 173
+  },
+  {
+    "name": "furfrou",
+    "base_experience": 165
+  },
+  {
+    "name": "espurr",
+    "base_experience": 71
+  },
+  {
+    "name": "meowstic-male",
+    "base_experience": 163
+  },
+  {
+    "name": "honedge",
+    "base_experience": 65
+  },
+  {
+    "name": "doublade",
+    "base_experience": 157
+  },
+  {
+    "name": "aegislash-shield",
+    "base_experience": 250
+  },
+  {
+    "name": "spritzee",
+    "base_experience": 68
+  },
+  {
+    "name": "aromatisse",
+    "base_experience": 162
+  },
+  {
+    "name": "swirlix",
+    "base_experience": 68
+  },
+  {
+    "name": "slurpuff",
+    "base_experience": 168
+  },
+  {
+    "name": "inkay",
+    "base_experience": 58
+  },
+  {
+    "name": "malamar",
+    "base_experience": 169
+  },
+  {
+    "name": "binacle",
+    "base_experience": 61
+  },
+  {
+    "name": "barbaracle",
+    "base_experience": 175
+  },
+  {
+    "name": "skrelp",
+    "base_experience": 64
+  },
+  {
+    "name": "dragalge",
+    "base_experience": 173
+  },
+  {
+    "name": "clauncher",
+    "base_experience": 66
+  },
+  {
+    "name": "clawitzer",
+    "base_experience": 100
+  },
+  {
+    "name": "helioptile",
+    "base_experience": 58
+  },
+  {
+    "name": "heliolisk",
+    "base_experience": 168
+  },
+  {
+    "name": "tyrunt",
+    "base_experience": 72
+  },
+  {
+    "name": "tyrantrum",
+    "base_experience": 182
+  },
+  {
+    "name": "amaura",
+    "base_experience": 72
+  },
+  {
+    "name": "aurorus",
+    "base_experience": 104
+  },
+  {
+    "name": "sylveon",
+    "base_experience": 184
+  },
+  {
+    "name": "hawlucha",
+    "base_experience": 175
+  },
+  {
+    "name": "dedenne",
+    "base_experience": 151
+  },
+  {
+    "name": "carbink",
+    "base_experience": 100
+  },
+  {
+    "name": "goomy",
+    "base_experience": 60
+  },
+  {
+    "name": "sliggoo",
+    "base_experience": 158
+  },
+  {
+    "name": "goodra",
+    "base_experience": 300
+  },
+  {
+    "name": "klefki",
+    "base_experience": 165
+  },
+  {
+    "name": "phantump",
+    "base_experience": 62
+  },
+  {
+    "name": "trevenant",
+    "base_experience": 166
+  },
+  {
+    "name": "pumpkaboo-average",
+    "base_experience": 67
+  },
+  {
+    "name": "gourgeist-average",
+    "base_experience": 173
+  },
+  {
+    "name": "bergmite",
+    "base_experience": 61
+  },
+  {
+    "name": "avalugg",
+    "base_experience": 180
+  },
+  {
+    "name": "noibat",
+    "base_experience": 49
+  },
+  {
+    "name": "noivern",
+    "base_experience": 187
+  },
+  {
+    "name": "xerneas",
+    "base_experience": 340
+  },
+  {
+    "name": "yveltal",
+    "base_experience": 340
+  },
+  {
+    "name": "zygarde-50",
+    "base_experience": 300
+  },
+  {
+    "name": "diancie",
+    "base_experience": 300
+  },
+  {
+    "name": "hoopa",
+    "base_experience": 270
+  },
+  {
+    "name": "volcanion",
+    "base_experience": 300
+  },
+  {
+    "name": "rowlet",
+    "base_experience": 64
+  },
+  {
+    "name": "dartrix",
+    "base_experience": 147
+  },
+  {
+    "name": "decidueye",
+    "base_experience": 265
+  },
+  {
+    "name": "litten",
+    "base_experience": 64
+  },
+  {
+    "name": "torracat",
+    "base_experience": 147
+  },
+  {
+    "name": "incineroar",
+    "base_experience": 265
+  },
+  {
+    "name": "popplio",
+    "base_experience": 64
+  },
+  {
+    "name": "brionne",
+    "base_experience": 147
+  },
+  {
+    "name": "primarina",
+    "base_experience": 265
+  },
+  {
+    "name": "pikipek",
+    "base_experience": 53
+  },
+  {
+    "name": "trumbeak",
+    "base_experience": 124
+  },
+  {
+    "name": "toucannon",
+    "base_experience": 218
+  },
+  {
+    "name": "yungoos",
+    "base_experience": 51
+  },
+  {
+    "name": "gumshoos",
+    "base_experience": 146
+  },
+  {
+    "name": "grubbin",
+    "base_experience": 60
+  },
+  {
+    "name": "charjabug",
+    "base_experience": 140
+  },
+  {
+    "name": "vikavolt",
+    "base_experience": 250
+  },
+  {
+    "name": "crabrawler",
+    "base_experience": 68
+  },
+  {
+    "name": "crabominable",
+    "base_experience": 167
+  },
+  {
+    "name": "oricorio-baile",
+    "base_experience": 167
+  },
+  {
+    "name": "cutiefly",
+    "base_experience": 61
+  },
+  {
+    "name": "ribombee",
+    "base_experience": 162
+  },
+  {
+    "name": "rockruff",
+    "base_experience": 56
+  },
+  {
+    "name": "lycanroc-midday",
+    "base_experience": 170
+  },
+  {
+    "name": "wishiwashi-solo",
+    "base_experience": 61
+  },
+  {
+    "name": "mareanie",
+    "base_experience": 61
+  },
+  {
+    "name": "toxapex",
+    "base_experience": 173
+  },
+  {
+    "name": "mudbray",
+    "base_experience": 77
+  },
+  {
+    "name": "mudsdale",
+    "base_experience": 175
+  },
+  {
+    "name": "dewpider",
+    "base_experience": 54
+  },
+  {
+    "name": "araquanid",
+    "base_experience": 159
+  },
+  {
+    "name": "fomantis",
+    "base_experience": 50
+  },
+  {
+    "name": "lurantis",
+    "base_experience": 168
+  },
+  {
+    "name": "morelull",
+    "base_experience": 57
+  },
+  {
+    "name": "shiinotic",
+    "base_experience": 142
+  },
+  {
+    "name": "salandit",
+    "base_experience": 64
+  },
+  {
+    "name": "salazzle",
+    "base_experience": 168
+  },
+  {
+    "name": "stufful",
+    "base_experience": 68
+  },
+  {
+    "name": "bewear",
+    "base_experience": 175
+  },
+  {
+    "name": "bounsweet",
+    "base_experience": 42
+  },
+  {
+    "name": "steenee",
+    "base_experience": 102
+  },
+  {
+    "name": "tsareena",
+    "base_experience": 255
+  },
+  {
+    "name": "comfey",
+    "base_experience": 170
+  },
+  {
+    "name": "oranguru",
+    "base_experience": 172
+  },
+  {
+    "name": "passimian",
+    "base_experience": 172
+  },
+  {
+    "name": "wimpod",
+    "base_experience": 46
+  },
+  {
+    "name": "golisopod",
+    "base_experience": 186
+  },
+  {
+    "name": "sandygast",
+    "base_experience": 64
+  },
+  {
+    "name": "palossand",
+    "base_experience": 168
+  },
+  {
+    "name": "pyukumuku",
+    "base_experience": 144
+  },
+  {
+    "name": "type-null",
+    "base_experience": 107
+  },
+  {
+    "name": "silvally",
+    "base_experience": 285
+  },
+  {
+    "name": "minior-red-meteor",
+    "base_experience": 154
+  },
+  {
+    "name": "komala",
+    "base_experience": 168
+  },
+  {
+    "name": "turtonator",
+    "base_experience": 170
+  },
+  {
+    "name": "togedemaru",
+    "base_experience": 152
+  },
+  {
+    "name": "mimikyu-disguised",
+    "base_experience": 167
+  },
+  {
+    "name": "bruxish",
+    "base_experience": 166
+  },
+  {
+    "name": "drampa",
+    "base_experience": 170
+  },
+  {
+    "name": "dhelmise",
+    "base_experience": 181
+  },
+  {
+    "name": "jangmo-o",
+    "base_experience": 60
+  },
+  {
+    "name": "hakamo-o",
+    "base_experience": 147
+  },
+  {
+    "name": "kommo-o",
+    "base_experience": 300
+  },
+  {
+    "name": "tapu-koko",
+    "base_experience": 285
+  },
+  {
+    "name": "tapu-lele",
+    "base_experience": 285
+  },
+  {
+    "name": "tapu-bulu",
+    "base_experience": 285
+  },
+  {
+    "name": "tapu-fini",
+    "base_experience": 285
+  },
+  {
+    "name": "cosmog",
+    "base_experience": 40
+  },
+  {
+    "name": "cosmoem",
+    "base_experience": 140
+  },
+  {
+    "name": "solgaleo",
+    "base_experience": 340
+  },
+  {
+    "name": "lunala",
+    "base_experience": 340
+  },
+  {
+    "name": "nihilego",
+    "base_experience": 285
+  },
+  {
+    "name": "buzzwole",
+    "base_experience": 285
+  },
+  {
+    "name": "pheromosa",
+    "base_experience": 285
+  },
+  {
+    "name": "xurkitree",
+    "base_experience": 285
+  },
+  {
+    "name": "celesteela",
+    "base_experience": 285
+  },
+  {
+    "name": "kartana",
+    "base_experience": 285
+  },
+  {
+    "name": "guzzlord",
+    "base_experience": 285
+  },
+  {
+    "name": "necrozma",
+    "base_experience": 300
+  },
+  {
+    "name": "magearna",
+    "base_experience": 300
+  },
+  {
+    "name": "marshadow",
+    "base_experience": 300
+  },
+  {
+    "name": "poipole",
+    "base_experience": 210
+  },
+  {
+    "name": "naganadel",
+    "base_experience": 270
+  },
+  {
+    "name": "stakataka",
+    "base_experience": 285
+  },
+  {
+    "name": "blacephalon",
+    "base_experience": 285
+  },
+  {
+    "name": "zeraora",
+    "base_experience": 300
+  },
+  {
+    "name": "meltan",
+    "base_experience": 150
+  },
+  {
+    "name": "melmetal",
+    "base_experience": 300
+  },
+  {
+    "name": "grookey",
+    "base_experience": 62
+  },
+  {
+    "name": "thwackey",
+    "base_experience": 147
+  },
+  {
+    "name": "rillaboom",
+    "base_experience": 265
+  },
+  {
+    "name": "scorbunny",
+    "base_experience": 62
+  },
+  {
+    "name": "raboot",
+    "base_experience": 147
+  },
+  {
+    "name": "cinderace",
+    "base_experience": 265
+  },
+  {
+    "name": "sobble",
+    "base_experience": 62
+  },
+  {
+    "name": "drizzile",
+    "base_experience": 147
+  },
+  {
+    "name": "inteleon",
+    "base_experience": 265
+  },
+  {
+    "name": "skwovet",
+    "base_experience": 55
+  },
+  {
+    "name": "greedent",
+    "base_experience": 161
+  },
+  {
+    "name": "rookidee",
+    "base_experience": 49
+  },
+  {
+    "name": "corvisquire",
+    "base_experience": 128
+  },
+  {
+    "name": "corviknight",
+    "base_experience": 248
+  },
+  {
+    "name": "blipbug",
+    "base_experience": 36
+  },
+  {
+    "name": "dottler",
+    "base_experience": 117
+  },
+  {
+    "name": "orbeetle",
+    "base_experience": 253
+  },
+  {
+    "name": "nickit",
+    "base_experience": 49
+  },
+  {
+    "name": "thievul",
+    "base_experience": 159
+  },
+  {
+    "name": "gossifleur",
+    "base_experience": 50
+  },
+  {
+    "name": "eldegoss",
+    "base_experience": 161
+  },
+  {
+    "name": "wooloo",
+    "base_experience": 122
+  },
+  {
+    "name": "dubwool",
+    "base_experience": 172
+  },
+  {
+    "name": "chewtle",
+    "base_experience": 57
+  },
+  {
+    "name": "drednaw",
+    "base_experience": 170
+  },
+  {
+    "name": "yamper",
+    "base_experience": 54
+  },
+  {
+    "name": "boltund",
+    "base_experience": 172
+  },
+  {
+    "name": "rolycoly",
+    "base_experience": 48
+  },
+  {
+    "name": "carkol",
+    "base_experience": 144
+  },
+  {
+    "name": "coalossal",
+    "base_experience": 255
+  },
+  {
+    "name": "applin",
+    "base_experience": 52
+  },
+  {
+    "name": "flapple",
+    "base_experience": 170
+  },
+  {
+    "name": "appletun",
+    "base_experience": 170
+  },
+  {
+    "name": "silicobra",
+    "base_experience": 63
+  },
+  {
+    "name": "sandaconda",
+    "base_experience": 179
+  },
+  {
+    "name": "cramorant",
+    "base_experience": 166
+  },
+  {
+    "name": "arrokuda",
+    "base_experience": 56
+  },
+  {
+    "name": "barraskewda",
+    "base_experience": 172
+  },
+  {
+    "name": "toxel",
+    "base_experience": 48
+  },
+  {
+    "name": "toxtricity-amped",
+    "base_experience": 176
+  },
+  {
+    "name": "sizzlipede",
+    "base_experience": 61
+  },
+  {
+    "name": "centiskorch",
+    "base_experience": 184
+  },
+  {
+    "name": "clobbopus",
+    "base_experience": 62
+  },
+  {
+    "name": "grapploct",
+    "base_experience": 168
+  },
+  {
+    "name": "sinistea",
+    "base_experience": 62
+  },
+  {
+    "name": "polteageist",
+    "base_experience": 178
+  },
+  {
+    "name": "hatenna",
+    "base_experience": 53
+  },
+  {
+    "name": "hattrem",
+    "base_experience": 130
+  },
+  {
+    "name": "hatterene",
+    "base_experience": 255
+  },
+  {
+    "name": "impidimp",
+    "base_experience": 53
+  },
+  {
+    "name": "morgrem",
+    "base_experience": 130
+  },
+  {
+    "name": "grimmsnarl",
+    "base_experience": 255
+  },
+  {
+    "name": "obstagoon",
+    "base_experience": 260
+  },
+  {
+    "name": "perrserker",
+    "base_experience": 154
+  },
+  {
+    "name": "cursola",
+    "base_experience": 179
+  },
+  {
+    "name": "sirfetchd",
+    "base_experience": 177
+  },
+  {
+    "name": "mr-rime",
+    "base_experience": 182
+  },
+  {
+    "name": "runerigus",
+    "base_experience": 169
+  },
+  {
+    "name": "milcery",
+    "base_experience": 54
+  },
+  {
+    "name": "alcremie",
+    "base_experience": 173
+  },
+  {
+    "name": "falinks",
+    "base_experience": 165
+  },
+  {
+    "name": "pincurchin",
+    "base_experience": 152
+  },
+  {
+    "name": "snom",
+    "base_experience": 37
+  },
+  {
+    "name": "frosmoth",
+    "base_experience": 166
+  },
+  {
+    "name": "stonjourner",
+    "base_experience": 165
+  },
+  {
+    "name": "eiscue-ice",
+    "base_experience": 165
+  },
+  {
+    "name": "indeedee-male",
+    "base_experience": 166
+  },
+  {
+    "name": "morpeko-full-belly",
+    "base_experience": 153
+  },
+  {
+    "name": "cufant",
+    "base_experience": 66
+  },
+  {
+    "name": "copperajah",
+    "base_experience": 175
+  },
+  {
+    "name": "dracozolt",
+    "base_experience": 177
+  },
+  {
+    "name": "arctozolt",
+    "base_experience": 177
+  },
+  {
+    "name": "dracovish",
+    "base_experience": 177
+  },
+  {
+    "name": "arctovish",
+    "base_experience": 177
+  },
+  {
+    "name": "duraludon",
+    "base_experience": 187
+  },
+  {
+    "name": "dreepy",
+    "base_experience": 54
+  },
+  {
+    "name": "drakloak",
+    "base_experience": 144
+  },
+  {
+    "name": "dragapult",
+    "base_experience": 300
+  },
+  {
+    "name": "zacian",
+    "base_experience": 335
+  },
+  {
+    "name": "zamazenta",
+    "base_experience": 335
+  },
+  {
+    "name": "eternatus",
+    "base_experience": 345
+  },
+  {
+    "name": "kubfu",
+    "base_experience": 77
+  },
+  {
+    "name": "urshifu-single-strike",
+    "base_experience": 275
+  },
+  {
+    "name": "zarude",
+    "base_experience": 300
+  },
+  {
+    "name": "regieleki",
+    "base_experience": 290
+  },
+  {
+    "name": "regidrago",
+    "base_experience": 290
+  },
+  {
+    "name": "glastrier",
+    "base_experience": 290
+  },
+  {
+    "name": "spectrier",
+    "base_experience": 290
+  },
+  {
+    "name": "calyrex",
+    "base_experience": 250
+  },
+  {
+    "name": "wyrdeer",
+    "base_experience": 263
+  },
+  {
+    "name": "kleavor",
+    "base_experience": 175
+  },
+  {
+    "name": "ursaluna",
+    "base_experience": 275
+  },
+  {
+    "name": "basculegion-male",
+    "base_experience": 265
+  },
+  {
+    "name": "sneasler",
+    "base_experience": 102
+  },
+  {
+    "name": "overqwil",
+    "base_experience": 179
+  },
+  {
+    "name": "enamorus-incarnate",
+    "base_experience": 116
+  },
+  {
+    "name": "sprigatito",
+    "base_experience": 62
+  },
+  {
+    "name": "floragato",
+    "base_experience": 144
+  },
+  {
+    "name": "meowscarada",
+    "base_experience": 265
+  },
+  {
+    "name": "fuecoco",
+    "base_experience": 62
+  },
+  {
+    "name": "crocalor",
+    "base_experience": 144
+  },
+  {
+    "name": "skeledirge",
+    "base_experience": 265
+  },
+  {
+    "name": "quaxly",
+    "base_experience": 62
+  },
+  {
+    "name": "quaxwell",
+    "base_experience": 144
+  },
+  {
+    "name": "quaquaval",
+    "base_experience": 265
+  },
+  {
+    "name": "lechonk",
+    "base_experience": 51
+  },
+  {
+    "name": "oinkologne",
+    "base_experience": 171
+  },
+  {
+    "name": "tarountula",
+    "base_experience": 42
+  },
+  {
+    "name": "spidops",
+    "base_experience": 141
+  },
+  {
+    "name": "nymble",
+    "base_experience": 42
+  },
+  {
+    "name": "lokix",
+    "base_experience": 158
+  },
+  {
+    "name": "pawmi",
+    "base_experience": 48
+  },
+  {
+    "name": "pawmo",
+    "base_experience": 123
+  },
+  {
+    "name": "pawmot",
+    "base_experience": 245
+  },
+  {
+    "name": "tandemaus",
+    "base_experience": 61
+  },
+  {
+    "name": "maushold",
+    "base_experience": 165
+  },
+  {
+    "name": "fidough",
+    "base_experience": 62
+  },
+  {
+    "name": "dachsbun",
+    "base_experience": 167
+  },
+  {
+    "name": "smoliv",
+    "base_experience": 52
+  },
+  {
+    "name": "dolliv",
+    "base_experience": 124
+  },
+  {
+    "name": "arboliva",
+    "base_experience": 255
+  },
+  {
+    "name": "squawkabilly",
+    "base_experience": 146
+  },
+  {
+    "name": "nacli",
+    "base_experience": 56
+  },
+  {
+    "name": "naclstack",
+    "base_experience": 124
+  },
+  {
+    "name": "garganacl",
+    "base_experience": 250
+  },
+  {
+    "name": "charcadet",
+    "base_experience": 51
+  },
+  {
+    "name": "armarouge",
+    "base_experience": 263
+  },
+  {
+    "name": "ceruledge",
+    "base_experience": 263
+  },
+  {
+    "name": "tadbulb",
+    "base_experience": 54
+  },
+  {
+    "name": "bellibolt",
+    "base_experience": 173
+  },
+  {
+    "name": "wattrel",
+    "base_experience": 56
+  },
+  {
+    "name": "kilowattrel",
+    "base_experience": 172
+  },
+  {
+    "name": "maschiff",
+    "base_experience": 68
+  },
+  {
+    "name": "mabosstiff",
+    "base_experience": 177
+  },
+  {
+    "name": "shroodle",
+    "base_experience": 58
+  },
+  {
+    "name": "grafaiai",
+    "base_experience": 170
+  },
+  {
+    "name": "bramblin",
+    "base_experience": 55
+  },
+  {
+    "name": "brambleghast",
+    "base_experience": 168
+  },
+  {
+    "name": "toedscool",
+    "base_experience": 67
+  },
+  {
+    "name": "toedscruel",
+    "base_experience": 180
+  },
+  {
+    "name": "klawf",
+    "base_experience": 158
+  },
+  {
+    "name": "capsakid",
+    "base_experience": 61
+  },
+  {
+    "name": "scovillain",
+    "base_experience": 170
+  },
+  {
+    "name": "rellor",
+    "base_experience": 54
+  },
+  {
+    "name": "rabsca",
+    "base_experience": 165
+  },
+  {
+    "name": "flittle",
+    "base_experience": 51
+  },
+  {
+    "name": "espathra",
+    "base_experience": 168
+  },
+  {
+    "name": "tinkatink",
+    "base_experience": 59
+  },
+  {
+    "name": "tinkatuff",
+    "base_experience": 133
+  },
+  {
+    "name": "tinkaton",
+    "base_experience": 253
+  },
+  {
+    "name": "wiglett",
+    "base_experience": 49
+  },
+  {
+    "name": "wugtrio",
+    "base_experience": 149
+  },
+  {
+    "name": "bombirdier",
+    "base_experience": 243
+  },
+  {
+    "name": "finizen",
+    "base_experience": 63
+  },
+  {
+    "name": "palafin",
+    "base_experience": 160
+  },
+  {
+    "name": "varoom",
+    "base_experience": 60
+  },
+  {
+    "name": "revavroom",
+    "base_experience": 175
+  },
+  {
+    "name": "cyclizar",
+    "base_experience": 175
+  },
+  {
+    "name": "orthworm",
+    "base_experience": 240
+  },
+  {
+    "name": "glimmet",
+    "base_experience": 70
+  },
+  {
+    "name": "glimmora",
+    "base_experience": 184
+  },
+  {
+    "name": "greavard",
+    "base_experience": 58
+  },
+  {
+    "name": "houndstone",
+    "base_experience": 171
+  },
+  {
+    "name": "flamigo",
+    "base_experience": 175
+  },
+  {
+    "name": "cetoddle",
+    "base_experience": 67
+  },
+  {
+    "name": "cetitan",
+    "base_experience": 182
+  },
+  {
+    "name": "veluza",
+    "base_experience": 167
+  },
+  {
+    "name": "dondozo",
+    "base_experience": 265
+  },
+  {
+    "name": "tatsugiri",
+    "base_experience": 166
+  },
+  {
+    "name": "annihilape",
+    "base_experience": 268
+  },
+  {
+    "name": "clodsire",
+    "base_experience": 151
+  },
+  {
+    "name": "farigiraf",
+    "base_experience": 260
+  },
+  {
+    "name": "dudunsparce",
+    "base_experience": 182
+  },
+  {
+    "name": "kingambit",
+    "base_experience": 275
+  },
+  {
+    "name": "great-tusk",
+    "base_experience": 285
+  },
+  {
+    "name": "scream-tail",
+    "base_experience": 285
+  },
+  {
+    "name": "brute-bonnet",
+    "base_experience": 285
+  },
+  {
+    "name": "flutter-mane",
+    "base_experience": 285
+  },
+  {
+    "name": "slither-wing",
+    "base_experience": 285
+  },
+  {
+    "name": "sandy-shocks",
+    "base_experience": 285
+  },
+  {
+    "name": "iron-treads",
+    "base_experience": 285
+  },
+  {
+    "name": "iron-bundle",
+    "base_experience": 285
+  },
+  {
+    "name": "iron-hands",
+    "base_experience": 285
+  },
+  {
+    "name": "iron-jugulis",
+    "base_experience": 285
+  },
+  {
+    "name": "iron-moth",
+    "base_experience": 285
+  },
+  {
+    "name": "iron-thorns",
+    "base_experience": 285
+  },
+  {
+    "name": "frigibax",
+    "base_experience": 64
+  },
+  {
+    "name": "arctibax",
+    "base_experience": 148
+  },
+  {
+    "name": "baxcalibur",
+    "base_experience": 300
+  },
+  {
+    "name": "gimmighoul",
+    "base_experience": 60
+  },
+  {
+    "name": "gholdengo",
+    "base_experience": 275
+  },
+  {
+    "name": "wo-chien",
+    "base_experience": 285
+  },
+  {
+    "name": "chien-pao",
+    "base_experience": 285
+  },
+  {
+    "name": "ting-lu",
+    "base_experience": 285
+  },
+  {
+    "name": "chi-yu",
+    "base_experience": 285
+  },
+  {
+    "name": "roaring-moon",
+    "base_experience": 295
+  },
+  {
+    "name": "iron-valiant",
+    "base_experience": 295
+  },
+  {
+    "name": "koraidon",
+    "base_experience": 335
+  },
+  {
+    "name": "miraidon",
+    "base_experience": 335
+  },
+  {
+    "name": "walking-wake",
+    "base_experience": 295
+  },
+  {
+    "name": "iron-leaves",
+    "base_experience": 295
+  },
+  {
+    "name": "dipplin",
+    "base_experience": 170
+  },
+  {
+    "name": "poltchageist",
+    "base_experience": 62
+  },
+  {
+    "name": "sinistcha",
+    "base_experience": 178
+  },
+  {
+    "name": "okidogi",
+    "base_experience": 278
+  },
+  {
+    "name": "munkidori",
+    "base_experience": 278
+  },
+  {
+    "name": "fezandipiti",
+    "base_experience": 278
+  },
+  {
+    "name": "ogerpon",
+    "base_experience": 275
+  },
+  {
+    "name": "archaludon",
+    "base_experience": 300
+  },
+  {
+    "name": "hydrapple",
+    "base_experience": 270
+  },
+  {
+    "name": "gouging-fire",
+    "base_experience": 295
+  },
+  {
+    "name": "raging-bolt",
+    "base_experience": 295
+  },
+  {
+    "name": "iron-boulder",
+    "base_experience": 295
+  },
+  {
+    "name": "iron-crown",
+    "base_experience": 295
+  },
+  {
+    "name": "terapagos",
+    "base_experience": 90
+  },
+  {
+    "name": "pecharunt",
+    "base_experience": 300
+  },
+  {
+    "name": "deoxys-attack",
+    "base_experience": 270
+  },
+  {
+    "name": "deoxys-defense",
+    "base_experience": 270
+  },
+  {
+    "name": "deoxys-speed",
+    "base_experience": 270
+  },
+  {
+    "name": "wormadam-sandy",
+    "base_experience": 148
+  },
+  {
+    "name": "wormadam-trash",
+    "base_experience": 148
+  },
+  {
+    "name": "shaymin-sky",
+    "base_experience": 270
+  },
+  {
+    "name": "giratina-origin",
+    "base_experience": 340
+  },
+  {
+    "name": "rotom-heat",
+    "base_experience": 182
+  },
+  {
+    "name": "rotom-wash",
+    "base_experience": 182
+  },
+  {
+    "name": "rotom-frost",
+    "base_experience": 182
+  },
+  {
+    "name": "rotom-fan",
+    "base_experience": 182
+  },
+  {
+    "name": "rotom-mow",
+    "base_experience": 182
+  },
+  {
+    "name": "castform-sunny",
+    "base_experience": 147
+  },
+  {
+    "name": "castform-rainy",
+    "base_experience": 147
+  },
+  {
+    "name": "castform-snowy",
+    "base_experience": 147
+  },
+  {
+    "name": "basculin-blue-striped",
+    "base_experience": 161
+  },
+  {
+    "name": "darmanitan-zen",
+    "base_experience": 189
+  },
+  {
+    "name": "meloetta-pirouette",
+    "base_experience": 270
+  },
+  {
+    "name": "tornadus-therian",
+    "base_experience": 290
+  },
+  {
+    "name": "thundurus-therian",
+    "base_experience": 290
+  },
+  {
+    "name": "landorus-therian",
+    "base_experience": 300
+  },
+  {
+    "name": "kyurem-black",
+    "base_experience": 350
+  },
+  {
+    "name": "kyurem-white",
+    "base_experience": 350
+  },
+  {
+    "name": "keldeo-resolute",
+    "base_experience": 290
+  },
+  {
+    "name": "meowstic-female",
+    "base_experience": 163
+  },
+  {
+    "name": "aegislash-blade",
+    "base_experience": 250
+  },
+  {
+    "name": "pumpkaboo-small",
+    "base_experience": 67
+  },
+  {
+    "name": "pumpkaboo-large",
+    "base_experience": 67
+  },
+  {
+    "name": "pumpkaboo-super",
+    "base_experience": 67
+  },
+  {
+    "name": "gourgeist-small",
+    "base_experience": 173
+  },
+  {
+    "name": "gourgeist-large",
+    "base_experience": 173
+  },
+  {
+    "name": "gourgeist-super",
+    "base_experience": 173
+  },
+  {
+    "name": "venusaur-mega",
+    "base_experience": 281
+  },
+  {
+    "name": "charizard-mega-x",
+    "base_experience": 285
+  },
+  {
+    "name": "charizard-mega-y",
+    "base_experience": 285
+  },
+  {
+    "name": "blastoise-mega",
+    "base_experience": 284
+  },
+  {
+    "name": "alakazam-mega",
+    "base_experience": 270
+  },
+  {
+    "name": "gengar-mega",
+    "base_experience": 270
+  },
+  {
+    "name": "kangaskhan-mega",
+    "base_experience": 207
+  },
+  {
+    "name": "pinsir-mega",
+    "base_experience": 210
+  },
+  {
+    "name": "gyarados-mega",
+    "base_experience": 224
+  },
+  {
+    "name": "aerodactyl-mega",
+    "base_experience": 215
+  },
+  {
+    "name": "mewtwo-mega-x",
+    "base_experience": 351
+  },
+  {
+    "name": "mewtwo-mega-y",
+    "base_experience": 351
+  },
+  {
+    "name": "ampharos-mega",
+    "base_experience": 275
+  },
+  {
+    "name": "scizor-mega",
+    "base_experience": 210
+  },
+  {
+    "name": "heracross-mega",
+    "base_experience": 210
+  },
+  {
+    "name": "houndoom-mega",
+    "base_experience": 210
+  },
+  {
+    "name": "tyranitar-mega",
+    "base_experience": 315
+  },
+  {
+    "name": "blaziken-mega",
+    "base_experience": 284
+  },
+  {
+    "name": "gardevoir-mega",
+    "base_experience": 278
+  },
+  {
+    "name": "mawile-mega",
+    "base_experience": 168
+  },
+  {
+    "name": "aggron-mega",
+    "base_experience": 284
+  },
+  {
+    "name": "medicham-mega",
+    "base_experience": 179
+  },
+  {
+    "name": "manectric-mega",
+    "base_experience": 201
+  },
+  {
+    "name": "banette-mega",
+    "base_experience": 194
+  },
+  {
+    "name": "absol-mega",
+    "base_experience": 198
+  },
+  {
+    "name": "garchomp-mega",
+    "base_experience": 315
+  },
+  {
+    "name": "lucario-mega",
+    "base_experience": 219
+  },
+  {
+    "name": "abomasnow-mega",
+    "base_experience": 208
+  },
+  {
+    "name": "floette-eternal",
+    "base_experience": 243
+  },
+  {
+    "name": "latias-mega",
+    "base_experience": 315
+  },
+  {
+    "name": "latios-mega",
+    "base_experience": 315
+  },
+  {
+    "name": "swampert-mega",
+    "base_experience": 286
+  },
+  {
+    "name": "sceptile-mega",
+    "base_experience": 284
+  },
+  {
+    "name": "sableye-mega",
+    "base_experience": 168
+  },
+  {
+    "name": "altaria-mega",
+    "base_experience": 207
+  },
+  {
+    "name": "gallade-mega",
+    "base_experience": 278
+  },
+  {
+    "name": "audino-mega",
+    "base_experience": 425
+  },
+  {
+    "name": "sharpedo-mega",
+    "base_experience": 196
+  },
+  {
+    "name": "slowbro-mega",
+    "base_experience": 207
+  },
+  {
+    "name": "steelix-mega",
+    "base_experience": 214
+  },
+  {
+    "name": "pidgeot-mega",
+    "base_experience": 261
+  },
+  {
+    "name": "glalie-mega",
+    "base_experience": 203
+  },
+  {
+    "name": "diancie-mega",
+    "base_experience": 315
+  },
+  {
+    "name": "metagross-mega",
+    "base_experience": 315
+  },
+  {
+    "name": "kyogre-primal",
+    "base_experience": 347
+  },
+  {
+    "name": "groudon-primal",
+    "base_experience": 347
+  },
+  {
+    "name": "rayquaza-mega",
+    "base_experience": 351
+  },
+  {
+    "name": "pikachu-rock-star",
+    "base_experience": 112
+  },
+  {
+    "name": "pikachu-belle",
+    "base_experience": 112
+  },
+  {
+    "name": "pikachu-pop-star",
+    "base_experience": 112
+  },
+  {
+    "name": "pikachu-phd",
+    "base_experience": 112
+  },
+  {
+    "name": "pikachu-libre",
+    "base_experience": 112
+  },
+  {
+    "name": "pikachu-cosplay",
+    "base_experience": 112
+  },
+  {
+    "name": "hoopa-unbound",
+    "base_experience": 306
+  },
+  {
+    "name": "camerupt-mega",
+    "base_experience": 196
+  },
+  {
+    "name": "lopunny-mega",
+    "base_experience": 203
+  },
+  {
+    "name": "salamence-mega",
+    "base_experience": 315
+  },
+  {
+    "name": "beedrill-mega",
+    "base_experience": 223
+  },
+  {
+    "name": "rattata-alola",
+    "base_experience": 51
+  },
+  {
+    "name": "raticate-alola",
+    "base_experience": 145
+  },
+  {
+    "name": "raticate-totem-alola",
+    "base_experience": 145
+  },
+  {
+    "name": "pikachu-original-cap",
+    "base_experience": 112
+  },
+  {
+    "name": "pikachu-hoenn-cap",
+    "base_experience": 112
+  },
+  {
+    "name": "pikachu-sinnoh-cap",
+    "base_experience": 112
+  },
+  {
+    "name": "pikachu-unova-cap",
+    "base_experience": 112
+  },
+  {
+    "name": "pikachu-kalos-cap",
+    "base_experience": 112
+  },
+  {
+    "name": "pikachu-alola-cap",
+    "base_experience": 112
+  },
+  {
+    "name": "raichu-alola",
+    "base_experience": 243
+  },
+  {
+    "name": "sandshrew-alola",
+    "base_experience": 60
+  },
+  {
+    "name": "sandslash-alola",
+    "base_experience": 158
+  },
+  {
+    "name": "vulpix-alola",
+    "base_experience": 60
+  },
+  {
+    "name": "ninetales-alola",
+    "base_experience": 177
+  },
+  {
+    "name": "diglett-alola",
+    "base_experience": 53
+  },
+  {
+    "name": "dugtrio-alola",
+    "base_experience": 149
+  },
+  {
+    "name": "meowth-alola",
+    "base_experience": 58
+  },
+  {
+    "name": "persian-alola",
+    "base_experience": 154
+  },
+  {
+    "name": "geodude-alola",
+    "base_experience": 60
+  },
+  {
+    "name": "graveler-alola",
+    "base_experience": 137
+  },
+  {
+    "name": "golem-alola",
+    "base_experience": 223
+  },
+  {
+    "name": "grimer-alola",
+    "base_experience": 65
+  },
+  {
+    "name": "muk-alola",
+    "base_experience": 175
+  },
+  {
+    "name": "exeggutor-alola",
+    "base_experience": 186
+  },
+  {
+    "name": "marowak-alola",
+    "base_experience": 149
+  },
+  {
+    "name": "greninja-battle-bond",
+    "base_experience": 239
+  },
+  {
+    "name": "greninja-ash",
+    "base_experience": 288
+  },
+  {
+    "name": "zygarde-10-power-construct",
+    "base_experience": 243
+  },
+  {
+    "name": "zygarde-50-power-construct",
+    "base_experience": 300
+  },
+  {
+    "name": "zygarde-complete",
+    "base_experience": 354
+  },
+  {
+    "name": "gumshoos-totem",
+    "base_experience": 146
+  },
+  {
+    "name": "vikavolt-totem",
+    "base_experience": 225
+  },
+  {
+    "name": "oricorio-pom-pom",
+    "base_experience": 167
+  },
+  {
+    "name": "oricorio-pau",
+    "base_experience": 167
+  },
+  {
+    "name": "oricorio-sensu",
+    "base_experience": 167
+  },
+  {
+    "name": "lycanroc-midnight",
+    "base_experience": 170
+  },
+  {
+    "name": "wishiwashi-school",
+    "base_experience": 217
+  },
+  {
+    "name": "lurantis-totem",
+    "base_experience": 168
+  },
+  {
+    "name": "salazzle-totem",
+    "base_experience": 168
+  },
+  {
+    "name": "minior-orange-meteor",
+    "base_experience": 154
+  },
+  {
+    "name": "minior-yellow-meteor",
+    "base_experience": 154
+  },
+  {
+    "name": "minior-green-meteor",
+    "base_experience": 154
+  },
+  {
+    "name": "minior-blue-meteor",
+    "base_experience": 154
+  },
+  {
+    "name": "minior-indigo-meteor",
+    "base_experience": 154
+  },
+  {
+    "name": "minior-violet-meteor",
+    "base_experience": 154
+  },
+  {
+    "name": "minior-red",
+    "base_experience": 175
+  },
+  {
+    "name": "minior-orange",
+    "base_experience": 175
+  },
+  {
+    "name": "minior-yellow",
+    "base_experience": 175
+  },
+  {
+    "name": "minior-green",
+    "base_experience": 175
+  },
+  {
+    "name": "minior-blue",
+    "base_experience": 175
+  },
+  {
+    "name": "minior-indigo",
+    "base_experience": 175
+  },
+  {
+    "name": "minior-violet",
+    "base_experience": 175
+  },
+  {
+    "name": "mimikyu-busted",
+    "base_experience": 167
+  },
+  {
+    "name": "mimikyu-totem-disguised",
+    "base_experience": 167
+  },
+  {
+    "name": "mimikyu-totem-busted",
+    "base_experience": 167
+  },
+  {
+    "name": "kommo-o-totem",
+    "base_experience": 270
+  },
+  {
+    "name": "magearna-original",
+    "base_experience": 300
+  },
+  {
+    "name": "pikachu-partner-cap",
+    "base_experience": 112
+  },
+  {
+    "name": "marowak-totem",
+    "base_experience": 149
+  },
+  {
+    "name": "ribombee-totem",
+    "base_experience": 162
+  },
+  {
+    "name": "rockruff-own-tempo",
+    "base_experience": 56
+  },
+  {
+    "name": "lycanroc-dusk",
+    "base_experience": 170
+  },
+  {
+    "name": "araquanid-totem",
+    "base_experience": 159
+  },
+  {
+    "name": "togedemaru-totem",
+    "base_experience": 152
+  },
+  {
+    "name": "necrozma-dusk",
+    "base_experience": 340
+  },
+  {
+    "name": "necrozma-dawn",
+    "base_experience": 340
+  },
+  {
+    "name": "necrozma-ultra",
+    "base_experience": 339
+  },
+  {
+    "name": "pikachu-starter",
+    "base_experience": 86
+  },
+  {
+    "name": "eevee-starter",
+    "base_experience": 87
+  },
+  {
+    "name": "pikachu-world-cap",
+    "base_experience": 112
+  },
+  {
+    "name": "meowth-galar",
+    "base_experience": 58
+  },
+  {
+    "name": "ponyta-galar",
+    "base_experience": 82
+  },
+  {
+    "name": "rapidash-galar",
+    "base_experience": 175
+  },
+  {
+    "name": "slowpoke-galar",
+    "base_experience": 63
+  },
+  {
+    "name": "slowbro-galar",
+    "base_experience": 172
+  },
+  {
+    "name": "farfetchd-galar",
+    "base_experience": 132
+  },
+  {
+    "name": "weezing-galar",
+    "base_experience": 172
+  },
+  {
+    "name": "mr-mime-galar",
+    "base_experience": 161
+  },
+  {
+    "name": "articuno-galar",
+    "base_experience": 290
+  },
+  {
+    "name": "zapdos-galar",
+    "base_experience": 290
+  },
+  {
+    "name": "moltres-galar",
+    "base_experience": 290
+  },
+  {
+    "name": "slowking-galar",
+    "base_experience": 172
+  },
+  {
+    "name": "corsola-galar",
+    "base_experience": 144
+  },
+  {
+    "name": "zigzagoon-galar",
+    "base_experience": 56
+  },
+  {
+    "name": "linoone-galar",
+    "base_experience": 147
+  },
+  {
+    "name": "darumaka-galar",
+    "base_experience": 63
+  },
+  {
+    "name": "darmanitan-galar-standard",
+    "base_experience": 168
+  },
+  {
+    "name": "darmanitan-galar-zen",
+    "base_experience": 189
+  },
+  {
+    "name": "yamask-galar",
+    "base_experience": 61
+  },
+  {
+    "name": "stunfisk-galar",
+    "base_experience": 165
+  },
+  {
+    "name": "zygarde-10",
+    "base_experience": 243
+  },
+  {
+    "name": "cramorant-gulping",
+    "base_experience": 166
+  },
+  {
+    "name": "cramorant-gorging",
+    "base_experience": 166
+  },
+  {
+    "name": "toxtricity-low-key",
+    "base_experience": 176
+  },
+  {
+    "name": "eiscue-noice",
+    "base_experience": 165
+  },
+  {
+    "name": "indeedee-female",
+    "base_experience": 166
+  },
+  {
+    "name": "morpeko-hangry",
+    "base_experience": 153
+  },
+  {
+    "name": "zacian-crowned",
+    "base_experience": 360
+  },
+  {
+    "name": "zamazenta-crowned",
+    "base_experience": 360
+  },
+  {
+    "name": "eternatus-eternamax",
+    "base_experience": 563
+  },
+  {
+    "name": "urshifu-rapid-strike",
+    "base_experience": 275
+  },
+  {
+    "name": "zarude-dada",
+    "base_experience": 300
+  },
+  {
+    "name": "calyrex-ice",
+    "base_experience": 340
+  },
+  {
+    "name": "calyrex-shadow",
+    "base_experience": 340
+  },
+  {
+    "name": "venusaur-gmax",
+    "base_experience": 236
+  },
+  {
+    "name": "charizard-gmax",
+    "base_experience": 240
+  },
+  {
+    "name": "blastoise-gmax",
+    "base_experience": 239
+  },
+  {
+    "name": "butterfree-gmax",
+    "base_experience": 178
+  },
+  {
+    "name": "pikachu-gmax",
+    "base_experience": 112
+  },
+  {
+    "name": "meowth-gmax",
+    "base_experience": 58
+  },
+  {
+    "name": "machamp-gmax",
+    "base_experience": 227
+  },
+  {
+    "name": "gengar-gmax",
+    "base_experience": 225
+  },
+  {
+    "name": "kingler-gmax",
+    "base_experience": 166
+  },
+  {
+    "name": "lapras-gmax",
+    "base_experience": 187
+  },
+  {
+    "name": "eevee-gmax",
+    "base_experience": 65
+  },
+  {
+    "name": "snorlax-gmax",
+    "base_experience": 189
+  },
+  {
+    "name": "garbodor-gmax",
+    "base_experience": 166
+  },
+  {
+    "name": "melmetal-gmax",
+    "base_experience": 270
+  },
+  {
+    "name": "rillaboom-gmax",
+    "base_experience": 265
+  },
+  {
+    "name": "cinderace-gmax",
+    "base_experience": 265
+  },
+  {
+    "name": "inteleon-gmax",
+    "base_experience": 265
+  },
+  {
+    "name": "corviknight-gmax",
+    "base_experience": 248
+  },
+  {
+    "name": "orbeetle-gmax",
+    "base_experience": 253
+  },
+  {
+    "name": "drednaw-gmax",
+    "base_experience": 170
+  },
+  {
+    "name": "coalossal-gmax",
+    "base_experience": 255
+  },
+  {
+    "name": "flapple-gmax",
+    "base_experience": 170
+  },
+  {
+    "name": "appletun-gmax",
+    "base_experience": 170
+  },
+  {
+    "name": "sandaconda-gmax",
+    "base_experience": 179
+  },
+  {
+    "name": "toxtricity-amped-gmax",
+    "base_experience": 176
+  },
+  {
+    "name": "centiskorch-gmax",
+    "base_experience": 184
+  },
+  {
+    "name": "hatterene-gmax",
+    "base_experience": 255
+  },
+  {
+    "name": "grimmsnarl-gmax",
+    "base_experience": 255
+  },
+  {
+    "name": "alcremie-gmax",
+    "base_experience": 173
+  },
+  {
+    "name": "copperajah-gmax",
+    "base_experience": 175
+  },
+  {
+    "name": "duraludon-gmax",
+    "base_experience": 187
+  },
+  {
+    "name": "urshifu-single-strike-gmax",
+    "base_experience": 275
+  },
+  {
+    "name": "urshifu-rapid-strike-gmax",
+    "base_experience": 275
+  },
+  {
+    "name": "toxtricity-low-key-gmax",
+    "base_experience": 176
+  },
+  {
+    "name": "growlithe-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "arcanine-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "voltorb-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "electrode-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "typhlosion-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "qwilfish-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "sneasel-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "samurott-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "lilligant-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "zorua-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "zoroark-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "braviary-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "sliggoo-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "goodra-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "avalugg-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "decidueye-hisui",
+    "base_experience": null
+  },
+  {
+    "name": "dialga-origin",
+    "base_experience": null
+  },
+  {
+    "name": "palkia-origin",
+    "base_experience": null
+  },
+  {
+    "name": "basculin-white-striped",
+    "base_experience": null
+  },
+  {
+    "name": "basculegion-female",
+    "base_experience": null
+  },
+  {
+    "name": "enamorus-therian",
+    "base_experience": null
+  },
+  {
+    "name": "tauros-paldea-combat-breed",
+    "base_experience": null
+  },
+  {
+    "name": "tauros-paldea-blaze-breed",
+    "base_experience": null
+  },
+  {
+    "name": "tauros-paldea-aqua-breed",
+    "base_experience": null
+  },
+  {
+    "name": "wooper-paldea",
+    "base_experience": null
+  },
+  {
+    "name": "oinkologne-female",
+    "base_experience": null
+  },
+  {
+    "name": "dudunsparce-three-segment",
+    "base_experience": null
+  },
+  {
+    "name": "palafin-hero",
+    "base_experience": null
+  },
+  {
+    "name": "maushold-family-of-three",
+    "base_experience": null
+  },
+  {
+    "name": "tatsugiri-droopy",
+    "base_experience": null
+  },
+  {
+    "name": "tatsugiri-stretchy",
+    "base_experience": null
+  },
+  {
+    "name": "squawkabilly-blue-plumage",
+    "base_experience": null
+  },
+  {
+    "name": "squawkabilly-yellow-plumage",
+    "base_experience": null
+  },
+  {
+    "name": "squawkabilly-white-plumage",
+    "base_experience": null
+  },
+  {
+    "name": "gimmighoul-roaming",
+    "base_experience": null
+  },
+  {
+    "name": "koraidon-limited-build",
+    "base_experience": null
+  },
+  {
+    "name": "koraidon-sprinting-build",
+    "base_experience": null
+  },
+  {
+    "name": "koraidon-swimming-build",
+    "base_experience": null
+  },
+  {
+    "name": "koraidon-gliding-build",
+    "base_experience": null
+  },
+  {
+    "name": "miraidon-low-power-mode",
+    "base_experience": null
+  },
+  {
+    "name": "miraidon-drive-mode",
+    "base_experience": null
+  },
+  {
+    "name": "miraidon-aquatic-mode",
+    "base_experience": null
+  },
+  {
+    "name": "miraidon-glide-mode",
+    "base_experience": null
+  },
+  {
+    "name": "ursaluna-bloodmoon",
+    "base_experience": null
+  },
+  {
+    "name": "ogerpon-wellspring-mask",
+    "base_experience": null
+  },
+  {
+    "name": "ogerpon-hearthflame-mask",
+    "base_experience": null
+  },
+  {
+    "name": "ogerpon-cornerstone-mask",
+    "base_experience": null
+  },
+  {
+    "name": "terapagos-terastal",
+    "base_experience": null
+  },
+  {
+    "name": "terapagos-stellar",
+    "base_experience": null
+  }
+]

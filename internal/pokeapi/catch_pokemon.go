@@ -3,20 +3,10 @@ package pokeapi
 import (
 	"encoding/json"
 	"io"
-	"math/rand"
 	"net/http"
 )
 
-func (c *Client) CatchPokemon(pageURL string) (string, error) {
-	pokemon, err := getPokemon(c, pageURL)
-	if err != nil {
-		return "", err
-	}
-	chanceToCatch := 1.0 - pokemon.BaseExperience
-
-	return pokemon.Name, nil
-}
-func getPokemon(c *Client, pageURL string) (RespPokemon, error) {
+func (c *Client) GetPokemon(pageURL string) (RespPokemon, error) {
 	url := baseURL + "/pokemon/" + pageURL
 
 	if val, ok := c.cache.Get(url); ok {
