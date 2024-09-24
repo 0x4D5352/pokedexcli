@@ -73,3 +73,7 @@ func commandExplore(cfg *config, args ...string) error {
 	}
 	return nil
 }
+
+func commandCatch(cfg *config, args ...string) error {
+	return nil
+}

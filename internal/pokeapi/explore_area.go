@@ -6,7 +6,6 @@ import (
 	"net/http"
 )
 
-// ListLocations -
 func (c *Client) ExploreArea(pageURL string) (RespSpecificLocation, error) {
 	url := baseURL + "/location-area/" + pageURL
 
